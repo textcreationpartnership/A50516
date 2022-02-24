@@ -1,0 +1,1696 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the French books of Mr. Charles Mearne, late bookseller to His Majesty to be sold by auction at the Kings Arms at Charing-Cross on Wednesday the 26th of this instant January 1686/7 / by William Cooper.</title>
+            <author>Mearne, Charles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50516</idno>
+            <idno type="STC">Wing M1581</idno>
+            <idno type="STC">ESTC R26198</idno>
+            <idno type="EEBO-CITATION">09386486</idno>
+            <idno type="OCLC">ocm 09386486</idno>
+            <idno type="VID">42926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42926)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1312:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the French books of Mr. Charles Mearne, late bookseller to His Majesty to be sold by auction at the Kings Arms at Charing-Cross on Wednesday the 26th of this instant January 1686/7 / by William Cooper.</title>
+                  <author>Mearne, Charles.</author>
+                  <author>Cooper, William.</author>
+               </titleStmt>
+               <extent>[1], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  England --  London.</term>
+               <term>Booksellers and bookselling --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42926:1" rendition="simple:additions"/>
+            <p>A CATALOGUE OF THE French Books OF Mr. <hi>CHARLES MEARNE,</hi> Late Bookſeller to His MAJESTY.</p>
+            <p>To be ſold by Auction at the <hi>Kings Arms</hi> at <hi>Charing-Croſs,</hi> on <hi>Wedneſday</hi> the 26th. of this inſtant <hi>January,</hi> 1686/7.</p>
+            <p>By <hi>William Cooper,</hi> Bookſeller.</p>
+            <p>The Catalogues are ready to be diſtributed <hi>Gratis</hi> at the <hi>Pelican</hi> in <hi>Little Britain,</hi> at Mr. <hi>Notts</hi> in the <hi>Pall Mall,</hi> at the <hi>Royal Coffee-Houſe,</hi> and at the ſaid Mr. <hi>Mearn</hi>'s, at the <hi>Kings Arms</hi> at <hi>Charing-Croſs,</hi> at Mr. <hi>Bentley</hi>'s in <hi>Covent-Garden,</hi> and at <hi>Finch</hi>'s Coffee-Houſe in <hi>Birchin-Lane</hi> near the <hi>Royal Exchange.</hi>
+            </p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:42926:2"/>
+            <pb facs="tcp:42926:2"/>
+            <head>This Auction will begin the <hi>26th.</hi> day of <hi>January 1686/7.</hi> at the hours of Ten in the morning, and Three in the Afternoon, till all are ſold, at the <hi>Kings Arms</hi> at <hi>Charing-Croſs,</hi> where the Books may be ſeen three days before the Sale. The CONDITIONS.</head>
+            <p n="1">I. That he who bids moſt is the Buyer; but if any difference ariſeth, the ſame Book or Books to be again expoſed to Sale.</p>
+            <p n="2">II. That the Books in this Catalogue (not otherwiſe expreſſed) are, for ought we know, perfect; but if any of them appear to be other<g ref="char:EOLhyphen"/>wiſe, before they be taken away, the Buyer ſhall have his choice, whether he will leave or take the ſame.</p>
+            <p n="3">III. That the Money for the Book or Books bought, is to be paid by the Buyer within one month after the Auction or Sale is ended, at the <hi>Kings Arms</hi> at <hi>Charing-Croſs,</hi> where, upon Payment thereof, the Book or Books bought ſhall be ready to be delivered, within the month aforeſaid.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sale_catalogue">
+            <div xml:lang="fre" type="lists_of_books">
+               <pb facs="tcp:42926:3"/>
+               <pb n="1" facs="tcp:42926:3"/>
+               <head>Gallici, &amp;c. in Folio.</head>
+               <list>
+                  <item>1 ANcienne &amp; Novelle Diſcipline de L'Egliſe touchant les Benefices &amp; les Benefici<g ref="char:EOLhyphen"/>ers 3 Vol. par Thomaſin a Paris 1679</item>
+                  <item>2 Oeuvres diverſes de Monſr. Arnauld 3 Vol. la meſme 1675</item>
+                  <item>3 Metamorpheſe d' Ovid Fr. &amp; Lat. avec figures a B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſſells 1678</item>
+                  <item>4 —La Meſme Fol. avec figures. a Bruſſels 1637</item>
+                  <item>5 Entree Triumphante de Louis 14me &amp; ſon Epouſe avec figures a Paris 1662</item>
+                  <item>6 Fleurs des Vies de Saints par Ribadineira la meſme 1667</item>
+                  <item>7 Ambaſſade de la Chine par la Compagnie Orientale des Provinces Unies avec fi<g ref="char:EOLhyphen"/>gures a Leyde 1665</item>
+                  <item>8 La Bible de St. Vulgate a Lyon 1696</item>
+                  <item>9 La meſme la meſme 1564</item>
+                  <item>10 Oeuvres Medicin de D'Campry a Paris 1646</item>
+                  <item>11 Hiſtoire de Conneſtable Lesdiguieres la meſme 1658</item>
+                  <item>12 —de Monſr. de Thov de Choſes Arives dans ſon temps par Monſr. du Ryer 3 Vol. la meſme 1659</item>
+                  <item>13—du Pais Bas avec figures par Materen a Amſterdam 1670</item>
+                  <item>14—du Mareſchal Matignon a Paris 1661</item>
+                  <item>15—du Louis XIIIme. par Dupleix la meſme 1638</item>
+                  <item>16—de L'Illuſtre Maiſon de Coligny la meſme 1684</item>
+                  <item>17—de Charles 8me par Monſieur Godefroy a Paris de L' Imprimirie Royale</item>
+                  <item>18—de Juifs par Joſeph avec figures Traduits par Monſr. Arnauld a Amſt. 1681</item>
+                  <item>19—la Meſme en 5 Vol. 12. avec figures a Paris 1676</item>
+                  <item>20—des Chevaliers de Malthe avec figures par Baudovin la meſme 1629</item>
+                  <item>21—de St. Louis Roy de France la meſme 1668</item>
+                  <item>22—Genealogique du Maiſon de Courtenay la meſme 1661</item>
+                  <item>23—de L'Egliſe par Godeau 3 Vol. la meſme 1674</item>
+                  <item>24—Idem 3me Vol. ſeparee. la meſme 1676</item>
+                  <item>25—la Meſme 6 Vol. 12. la meſme 1680</item>
+                  <item>26—de L'Ancienne Teſtement par Monſr. Arnauld la meſme 1675</item>
+                  <item>27—La Meſme en 4to. la meſme 1675</item>
+                  <item>28—des Turcs par Mezeray 2 Vol. avec figures la meſme 1662</item>
+                  <item>29—de L'Angleterre d' Eſcoſſe &amp; d'Ireland 2 Vol. par Ducheſne la meſme 1666</item>
+                  <item>30 Dioptrique Oculaire ou la Theorique la Poſitive &amp; la Mechanique avec figures par Cherubin la meſme 1671</item>
+                  <item>31 Hiſtoria Del Conſilio di Trento di Pallavicino 2 Vol. in Roma 1556</item>
+                  <item>32—Idem 3 Vol. 4to. la meſme 1664</item>
+                  <item>33 La Cour Saint par Nic. Cauſſin a Rouen 1665</item>
+                  <item>34 Hiſtoire du L'Entre de La Ryene Mere du Roy tres Chriſtienne dans la Grand Bre<g ref="char:EOLhyphen"/>taigne avec figures a Londres 1639</item>
+                  <item>35 Hydrographie contenant la Theorie &amp; la Pratique de Toutes Soites de Navigation par Fournier avec figures a Paris 1667</item>
+                  <item>
+                     <pb n="2" facs="tcp:42926:4"/>36 L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Genealogie des Comtes de Flandres depuis Badovin Bras de Fer Joſque Phi<g ref="char:EOLhyphen"/>lip 4me R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y de Eſpagne par Olivier de Wree avec figures a Bruges 1642</item>
+                  <item>37 L' Novell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> For<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ification de Gouldman avec figures a Leyde 1645</item>
+                  <item>38 Hiſtoire du D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffrend entre Boniface 8me &amp; Philip le Belle a Paris 1655</item>
+                  <item>39 Academie d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Sciences &amp; des Artes Contenant les V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es &amp; Elogies des Hommes Illu<g ref="char:EOLhyphen"/>ſtres depuis 4tre ſiceles 2 Vol. avec figures a Bruſſell. 1682</item>
+                  <item>40 Il Memoral. di Lingua Italiana di Giovan. Pergamino.</item>
+                  <item>41 Hiſtoire Imperial Ceſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee di Pedro <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>exiò a Anvers 1678</item>
+                  <item>42 Oeuvres de Plutarque 4 Vol. par Amyot a Paris 1665</item>
+                  <item>43 Vies du Plutarque du Meſme la meſme 1603</item>
+                  <item>44—du Meſme Traduit par L'Abbee Tallemont 9 Vol.</item>
+                  <item>45 Calvin Commentaire ſur L'Evangiles a Geneve 1563</item>
+                  <item>46 Memoires de Duc de Sulley 2 Vol. a Paris 1664</item>
+                  <item>47 La. Meſme 8 Vol. 12. la meſme 1663</item>
+                  <item>48 Hiſtoire de Polybe par du Ryer la meſme 1665</item>
+                  <item>49 —d' Herodote par du Ryer la meſme 1658</item>
+                  <item>50 —La Meſme 2 Vol. 12. la meſme 1660</item>
+                  <item>51 —de Thucidide par Ablancourt</item>
+                  <item>52 L'Eſpie par Monſr. Thibaut Demonſtres par Reigles Mathematiques avec figure a Anverſ. 1628</item>
+                  <item>53 Hiſtoire de la Guerre de Flandres par Strada 2 Vol. a Paris 1658</item>
+                  <item>54 Memoires de Monſieur de Tavannes</item>
+                  <item>55 La Bible avec les Annotations de Monſr. Mareſts avec figures 2 Vol. a Amſt. 1699</item>
+                  <item>56 Oeuvres de Mothe Le Vayer 2 Vol. a Paris 1662</item>
+                  <item>57—La Meſme 12.</item>
+                  <item>58—de Sieur de Vair la meſme 1619</item>
+                  <item>59 Diſcours Meſlangez fait en la Parliament de Paris la meſme 1651</item>
+                  <item>60 Hiſtoria d'Eſpana di Mariana 2 Vol. a Madrid</item>
+                  <item>61 Cronica Preves di Fiatta di Francia en la Effigie in Venetia 1597</item>
+                  <item>62 Saggi di Naturali Eſperienze a Fierenze 1667</item>
+                  <item>63 L' Theatre de Honneur de Chevalrie 2 Vol. a Paris 1648</item>
+                  <item>64 La. Italia di Antonio Magni</item>
+                  <item>65 Chronologia Vniverſale di Adono 3 Vol. in Venetia 1581</item>
+                  <item>66 Vier des Pleuſieurs Saints Illuſtrees par Monſr. Arnauld a Paris 1664</item>
+                  <item>67 Les Eſſayes de Montaigne la meſme 1657</item>
+                  <item>68—la Meſme 3 Vol. 12. a Lyon 1669</item>
+                  <item>69 Le Code Louis Le 13me a Paris 1628</item>
+                  <item>70 Les Annales di Aquitaine Faicts &amp; Geſtes en Sommaire des Roys de France &amp; d'An<g ref="char:EOLhyphen"/>gleterre Pais de Naples &amp; Milan a Poictiers 1643</item>
+                  <item>71 Arte Militare Terre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re é Maritini in Venetia 1655</item>
+                  <item>72 Memoires de Meſſel. Martin Bellay a Paris 1559</item>
+                  <item>73 Remarques ſur L' Eſtat de France en Manuſcript.</item>
+                  <item>74 La. Cyropedie ou L'Hiſtoire de Cyrus la meſme 1660</item>
+                  <item>75 Perſpective Curieuſe avec figures par Niceron la meſme 1663</item>
+                  <item>76 L' Art de Regner par Le Moyne la meſme 1665</item>
+                  <item>77 L'Ambaſſade de D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c d'Angouleſme en L'Allemagne vers L'Empereur Ferdinand 2de la meſme 1667</item>
+                  <item>78 La Pucelle d' Orleans Poeme Heroique avec figures la meſme 1656</item>
+                  <item>
+                     <pb n="3" facs="tcp:42926:4"/>79 La Pucelle avec figures 12. a Paris 1657</item>
+                  <item>80 L' Euchariſt de L' auncienne Egliſe par Monſr. Aubertin a Geneve 1623</item>
+                  <item>81 Les Oeuvres Anatomique &amp; Chirurgique par Monſr. Courtin 1656</item>
+                  <item>82 Chriſtoph. de Fonſeca de la Vida de Chriſto en Madrid 1605</item>
+                  <item>83 Quarto Parte de l' Hiſtoria Pontificale Catholica, caret Titulo.</item>
+                  <item>84 Oeuvres Medicine de Monſr. Andre Laurens a Paris 1639</item>
+                  <item>85 Lettres &amp; Ambaſſades de Phil. du Canaye &amp; du Freſne 3 Vol. la meſme 1635</item>
+                  <item>86 Inſtructions ſur la Faict de la Guerre la meſme 1549</item>
+                  <item>87 La Science Heroique traittent de la Nobleſſe &amp; les Origine de Armes avec figures la meſme 1665</item>
+                  <item>88 Memoires de Duc de Nevers 2 Vol. la meſme 1665</item>
+                  <item>89 Les Oeuvres de Seneque la meſme 1609</item>
+                  <item>90 Deſcription de Tout la Pays Bas par Guicciardin a Anvers 1568</item>
+                  <item>91 Oeuvres Mathematiques de Samuel Marolois a Amſterd. 1628</item>
+                  <item>92—de Simon Stevin a Leyde</item>
+                  <item>93—de Frambeſaire Medicine du Roy a Lyon 1644</item>
+                  <item>94 Hiſtoire Romaine Juſque Conſtantine le Grand par Monſr. Coeffteau a Paris 1663</item>
+                  <item>95 L' Architecture de Vitruue avec figures la meſme 1672</item>
+                  <item>96 La Grand Art de l' Artillerie par le Sieur Stemien Penick avec figures a Amſt. 1681</item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Gallici,</hi> &amp;c. in Quarto.</head>
+                  <item>97 Metamorphoſe d' Ovide en Rondeaux avec figures a Paris 1677</item>
+                  <item>98—la meſme 12. a Amſterdam</item>
+                  <item>99 Diſcorſi Politici di P. Paruta in Venetia 1650</item>
+                  <item>100 Roma Subterranea Opera Poſthum. di Ant. Boſſio in Roma 1650</item>
+                  <item>101 Les Voyages des Jeane de Struys en Muſcovie en Perſe, &amp;c. avec fig. Amſt. 1681</item>
+                  <item>102 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uartie parties du Monde par Sanſon avec Cartes 1683</item>
+                  <item>103 Hexham's Dutch and Engliſh Dictionary a Rotterdam 1672</item>
+                  <item>104 Vita di Pittori di Vaſſari 3 Vol. Colon 1648</item>
+                  <item>105 Tibere Diſcourſe politique ſur Tacite a Amſterdam 1673</item>
+                  <item>106 Oeuvres de Lucien par Ablancourt 2 Vol. a Paris 1685</item>
+                  <item>107—la meſme 2 Vol. 8vo. a Amſterdam 1664</item>
+                  <item>108 Cor. Tacite par Ablancourt a Paris 1665</item>
+                  <item>109—la Meſme 2 Vol. 8vo. a Amſterdam 1670</item>
+                  <item>110 L'Adminiſtratio du Card Mazarin par Silhon 1655</item>
+                  <item>111 L' Ambaſſadeur &amp; ſes Fonctions par Wiquefort 2 Vol. a la Haye 1681</item>
+                  <item>112 La Pharmacopie de Bauderon a Lyon 1681</item>
+                  <item>113 Dell Imitation de Chriſto del P. Fr. Arrias 1609</item>
+                  <item>114 Hiſtoire Critique par Pere Simon a Amſterd. 1680</item>
+                  <item>115—la Meſme la meſme 1685</item>
+                  <item>116 Hiſtoria di Flandra di Card. Bentivoglio in Venetia 1661</item>
+                  <item>117 Il Mercurio di Vittorio Syrio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ma, 2da, 3tia in Geneva</item>
+                  <item>118—Idem pars 3tia ſeparat.</item>
+                  <item>119 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar Paiot Dictionaire Franc. &amp; Lat. Flexiae 1645</item>
+                  <item>120 Dictionaire Royal par Pomey Fr &amp; Lat. a Lyon</item>
+                  <item>121—Francoiſe par Richelet.</item>
+                  <item>
+                     <pb n="4" facs="tcp:42926:5"/>1 2 Pharmacopie Royale Galenique &amp; Chymique par Monſr. Charras a Paris 1676</item>
+                  <item>123 Perſpective ſpeculative &amp; pratique avec figures par Migon la meſme 1643</item>
+                  <item>124—la Meſme 3 Vol 4to. par les Jeſuites avec figures la meſme 1651</item>
+                  <item>125 Clouis P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eme <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>roique avec <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es figures par des Marreſtes la meſme 1657</item>
+                  <item>126 Traitte de la N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bleſee de ſes diff<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ends Eſpeces de ſon Origine, &amp;c. la meſme 1678</item>
+                  <item>127 L'Art Univerſelle des Fortifications Francoſſe &amp; Hollandoiſe avec fig. la meſme 1674</item>
+                  <item>128 L' Art de Connoiſtre les Hommes par Monſr. la Chambre la meſme 1666</item>
+                  <item>129 Les Memoires de Monſr. le D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c de Guiſe la meſme 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8</item>
+                  <item>130—la Meſme en 12. a Cologne 1668</item>
+                  <item>131 Ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ege des Obſervations &amp; Reflexions ſur la Comete qui a Paru dans la Annee 1681 avec figures</item>
+                  <item>132 Les Homilies de St. Chryſoſtome par Meſſieurs du Port Royal</item>
+                  <item>133 Des Principes de l' Architecture de le Sculpture &amp; de le Peinture avec figures par Filibi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n a Paris 1676</item>
+                  <item>134 La Theologien dans les Converſations avec les Sages &amp; les Grandes du Monde la meſme 1683</item>
+                  <item>135 Hiſtoire du Henry le grand par le Eveſque de Rhodes la meſme 1662</item>
+                  <item>136—la Meſme 12.</item>
+                  <item>137 Ariſtippe ou la Cour par Monſr. Balzac la meſme 1658</item>
+                  <item>138 Remarques Nouvelles ſur la langue Francoiſe la meſme 1675</item>
+                  <item>139 Voyage de Monſieur Pyrard contenant ſa Navigation aux Indes Orientales la meſme 1679</item>
+                  <item>140 Les Playdoyes &amp; autres Oeuvres de Monſr. Patru la meſme 1670</item>
+                  <item>141 Dictionaire des Langues Francoiſe &amp; Latin par Monet la meſme <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>646</item>
+                  <item>142 Lettres &amp; Diſcourſes de Monſr. Sorbiere ſur divers matiers curieuſes la meſme 1660</item>
+                  <item>143 Actions publique ſur la Rhetorique Francoiſe par Bary la meſme 1658</item>
+                  <item>144 Reponſe pour les Egliſes des Vallees de Piemont a Geneve 1679</item>
+                  <item>145 Hiſtoria de Conſilio di Trento di Pietro Paolo</item>
+                  <item>146 Obras de Don Franceſco de Quevedo 3 Vol. a Bruſſels 1670</item>
+                  <item>147 Tibere Diſceurs politique ſur Tacite par le Sr. Mothe Joſſeval a Amſterdam 1683</item>
+                  <item>148 Hiſtoire de Henry 4me par Mathieu a Paris 1665</item>
+                  <item>149 Mort de Pompee Tragoedie par Corneille la meſme 1665</item>
+                  <item>150 Meditations Metaphyſiques par Des Cartes la meſme 1661</item>
+                  <item>151 Traitte de l' Eſprit de l' Homme par la Forge la meſme 1661</item>
+                  <item>152 Les Principes de la Philoſophie par Des Cartes la meſme 1659</item>
+                  <item>153 Teſoro de las dos Lenguas Eſpaynola Franciſca di Ceſar Oudin a Bruxelles 1660</item>
+                  <item>154 Quintilien de l'Inſtitution de l'Orateur avec les notes Hiſtorique 2 Vol. a Paris 1663</item>
+                  <item>155 Diſcours de la Methode pour chercher des Sciences plus lu Dioptrique &amp; les Meteors</item>
+                  <item>156 Conclavi di Pontifici Romani 1667</item>
+                  <item>157—la Meſme en 12.</item>
+                  <item>158 Avis Fixlelle aux Hollandoiſe touchant les Cruautes de Francoiſe avec figures 1673</item>
+                  <item>159 La Cabinett de Monſr. Scuderi a Paris 1649</item>
+                  <item>160 Hiſtoria delle Guerre Civile di Francia di Davila in Venetia 1670</item>
+                  <item>161 Replique de Jeanne Daille aux deux Liuures d' Adam &amp; Cottily a Geneve 1669</item>
+                  <item>162 Conformite de la Eceleſiaſtique des Proteſtants de France avec celle des Anciens Cretienne 1678</item>
+                  <item>163 Lettres de Monſr. L' Mothe L' Vayer a Paris 1648</item>
+                  <item>164 Les Entretiens de Monſr. Voiture a Monſr. Coſtar la meſme 1655</item>
+                  <item>
+                     <pb n="5" facs="tcp:42926:5"/>165 Memoires ſur la Vie de Louvſe Juliane Electrice Palatine a Leyden 1645</item>
+                  <item>166 Scipion par Marreſt a Paris 1639</item>
+                  <item>167 Aminta de Signior Torquato Taſſo Bargici 1656</item>
+                  <item>168 L' Prince par Monſieur Balzac la meſme 1631</item>
+                  <item>169 Tratato della Direſione Fiumi</item>
+                  <item>170 Traite des Religions par M. Amyraut a Saumur 1652</item>
+                  <item>171 Proſe di Giovanni Campoli a Rome 1649</item>
+                  <item>172 Les Grandeurs de la Maiſon de France a Paris 1667</item>
+                  <item>173 Hiſtoire des Iſles Antilles avec figures a Amſterdam 1665</item>
+                  <item>174 De la Origine de la Peinture &amp; des plus Excellents Peintures de L' Antiquity a Paris 1660</item>
+                  <item>175 Les Us en Coutumes de La Mer a Rouen 1671</item>
+                  <item>176 Les Genealogies &amp; Anciennes Deſentes des Foreſters &amp; Comtes de Flandre avec brieves Deſcriptions de leur Vies &amp; Geſtes &amp; leur Portraites a Amſterdam</item>
+                  <item>177 L' Horoſcope de Monſr. L' Dauphine par J. F. Senaul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. a Paris 1661</item>
+                  <item>178 Viaggi di Pietro della Valle en la Turchice Perſie Indie a Rome 1650</item>
+                  <item>179 Oeuures de Seneque par Clavelt a Rouen 1638</item>
+                  <item>180 Relation Veritables &amp; Curieuſes de L' Iſle de Madagaſcar &amp; Breſil a Paris 1651</item>
+                  <item>181 Diſcourſe Hiſtorique de l' Election de L' Empereur &amp; des Electeurs de L' Empire par L' Reſident Brandenburg</item>
+                  <item>182 Relation du Voyage d' Adam Olearius en Moſcovie Tartaire en Perſe 2 Vol. avec fi<g ref="char:EOLhyphen"/>gures a Paris 1659</item>
+                  <item>183 Les Peintures Morales de la Doctrine des Paſſions par le Meyne</item>
+                  <item>184 Relation de L' Origene &amp; Succez des Cherifs &amp; D' L' Eſtat du Royaumes de Mo<g ref="char:EOLhyphen"/>roc a Paris 1636</item>
+                  <item>185 Diſcours Politique &amp; Millitaire ſur C. Tacite a Lyon 1628</item>
+                  <item>186 Hiſtoire Saint par Nic. Talon 4 Vol. a Paris 1645</item>
+                  <item>187 Divers Voyages d' Alexander de Rhodes en Chine &amp; autres Royaumes d' <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> la meſme 1666</item>
+                  <item>188 Les Eſtat Empires &amp; Principautez du Mond a Roven 1628</item>
+                  <item>189 Les Heros Francoi. au L'Idee du Grand Capitane a Paris 1645</item>
+                  <item>190 Oeuvre de Cor Tacite par Baudovin la meſme 1629</item>
+                  <item>191 Remarques ſur la Langue Francois par Vaugelas la meſme 1675</item>
+                  <item>192—La Meſme en 12. a Amſterdam 1665</item>
+                  <item>193 L' Parfait Capitaine au la Abrege de Guerres de Gaules par Ceſar a Paris 1638</item>
+                  <item>194 L' Nozze de Gli Dei Favola Florenza 1637</item>
+                  <item>195 L' Ambaſſade de Wicquefort 2 Vol.</item>
+                  <item>196 Remarques ſur la Langue Francoiſe a Paris 1655</item>
+                  <item>197 Threſor de L' Hiſtoire des Langues de ceſt Univeis a Cologne 1613</item>
+                  <item>198 Nouvelles Theorie de Planetes avec les Tables Richcliennes &amp; Pariſinnes par N. Du<g ref="char:EOLhyphen"/>ret a Paris 1635</item>
+                  <item>199 Les Commentaires de Ceſar la meſme 1652</item>
+                  <item>200 La Bible Francoiſe a Geneve 1622</item>
+                  <item>201 Eloges des Eveques qui dans tous les Siccles d' L' Egliſe ont fleury par Ant. Godeau Eveſque de Venſe a Paris 1665</item>
+                  <item>202 Atlas Minor de Gerard Mercator Amſterdam</item>
+                  <item>203 Les Fleurs des Vies de Saints par R. P. Ribandeneira a Rouen 1668</item>
+                  <item>204 Les Oeuvres de Lucien avec Annotations a Paris</item>
+                  <item>
+                     <pb n="6" facs="tcp:42926:6"/>205 Cent Diſcours ſur la Penitence &amp; Reſtauration du Roy David par R. P. Julius Ma<g ref="char:EOLhyphen"/>zarine a Paris 1610</item>
+                  <item>206 Diſcours de la Religion Anciens Romains par l' Illuſtre de Medailles a Lyon 1581</item>
+                  <item>207 L' Grand Dictionaire Fran. Lat. par Nicod a Geneve</item>
+                  <item>208 Preuves &amp; Prerug de la Religion Catholique a Paris 1683</item>
+                  <item>209 L' Theſor des Trois Langues, Eſpagnol, Francoiſe &amp; Italien par Oudin 1637</item>
+                  <item>210 Hiſtoire Univerſel de Chine par L' P. a Lyon 1667</item>
+                  <item>211 Les Tableaux de la Penitence par Ant. Godeau 3d Edit. a Paris 1662</item>
+                  <item>212 Les Eſtats Empires &amp; Principautes du Monde avec l' Origine de Toutes les Reli<g ref="char:EOLhyphen"/>gions a Rouen 1638</item>
+                  <item>213 Pharmacopies Royale G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lenique &amp; Chymique par M. Charas a Paris 1676</item>
+                  <item>214 Memorable Hiſtoire du Siege d O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tende les plus ſignale en L' Europe avec divers fi<g ref="char:EOLhyphen"/>gures a Leyde 1615</item>
+                  <item>215 L' Meth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de pour Bien condiure la Rajſon par des Cartes la meſme 1673</item>
+                  <item>216 Geometrie Pratique per Charles de Bovelles a Paris 1551</item>
+                  <item>217 Journal de Converſation par Monſr. Bary la meſme 1673</item>
+                  <item>218 N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>veaux Elemens de Geometrie la meſme 1667</item>
+                  <item>219 La Piete Eprouvee Homelies ſur L' Trois Premires Chapitres de L' Hiſt. de Job par God f. Hotton a Amſterdam 1648</item>
+                  <item>220 L' Hiſtoire de Calviniſme &amp; Papiſme mis en Pararelle, ou Apologie pur la Refor<g ref="char:EOLhyphen"/>mation &amp; par M. Jerieu a Rotterdam 1683</item>
+                  <item>221 Paraphraſe ſur l Epiſt. aux Romaines par P. de Launay.</item>
+                  <item>222 Menaſ. Ben Iſrael Conſiliador de la Convenien de los Lugar. de Laſ. Eſcrip. que Repugnant entree ſi Paracen 2 Vol. a Amſterdam 1632</item>
+                  <item>223 La ſaint Bible a Geneve 1564</item>
+                  <item>224 De Mournay (Phil.) de l' Inſtitut. Uſage &amp; Doctrine du St. Sacrament de l' Eucha<g ref="char:EOLhyphen"/>riſt en l' Egliſe Ancienne a la Roch 1598</item>
+                  <item>225 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> au Livre publ. par l' Eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue d' <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ureux ſur la Conference tenue a Fountaine Bleau l' 4. de May 1600 par P. du Mournay a Saumur 1602</item>
+                  <item>226 Relation della Stato della Religione Trad. dall. Ingleſe del Ed. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>andes 1625</item>
+                  <item>227 Les Ruzes de Satan par Jacq. Aconce a Delf 1611</item>
+                  <item>228 Reponſe a la Methode de M. le Cardin. de Richelieu 1677</item>
+                  <item>229 L' Hiſtoire Naturale &amp; Morale des Iſles Antilles d' Amerique avec fig. a Rot. 1681</item>
+                  <item>230 La Hiſtoria di Italia di M. Franceſco Guicciardin a G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neve 1645</item>
+                  <item>231 Della Ragion di ſtato &amp; della Prudenza Politica di Fred. Bonaventura in Urb. 1623</item>
+                  <item>232 Bartholomei Scappi dell. Arte del Cuoco in Venetia 1643</item>
+                  <item>233 Ill Mercato delle Maraviglie della Natura par Nic. Serpetro la meſme 1654</item>
+                  <item>234 La Piazza Univerſale di Tutte le Profeſſioni del Mondo du Tho. Gazzoni la meſme 1592</item>
+                  <item>235 Conſeptos Eſcripturales del Ceſar Calderari trad. in Lang. Caſtellana por Diego San<g ref="char:EOLhyphen"/>chez de la Camara 1594</item>
+                  <item>236 Remonſtrances &amp; Overtures de Palais &amp; par Ander Niſmond a Lyon 1656</item>
+                  <item>237 Memoires de Phil. de Mournay Seignior de Pleſſis 2 Vol. a Amſterdam 1652</item>
+                  <item>238 Traitte de la Sphere &amp; de ſes Partes a Rouen 1651</item>
+                  <item>239 Theoclee ou la Vray Philoſoph. des Principes du Monde par Ch. Cotin a Paris 1646</item>
+                  <item>240 L' Ariſtote ou Orlando Furieux avec figures la meſme 1644</item>
+                  <item>241 L' Academie Francoiſe par P. de la Primaudaye a Saumur 1613</item>
+               </list>
+               <list>
+                  <pb n="7" facs="tcp:42926:6"/>
+                  <head>
+                     <hi>Gallici,</hi> &amp;c. in Octavo.</head>
+                  <item>242 Ls. Nouveau Teſtament Gr. Lat. &amp; Fran. a Mons 1973</item>
+                  <item>243 E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Nuevo Te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tamento Span. a Amſterdam 1626</item>
+                  <item>244 Il Nuevo Teſtamento trad in Ling. Ital. da Giou. Diodati a Haer. 1655</item>
+                  <item>245 La Pratique des Vertu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chreſtiennes ou les Devoires de l' Homme a Amſt.</item>
+                  <item>246 Stances Chriſtien ſur divers paſſages del'Eſcriture Ste. a Paris 1669</item>
+                  <item>247 La Croix Arborce dans la Champ de l' Egliſe a Geneve 1625</item>
+                  <item>248 L' Accroiſement des eaux de Siloe pour Eteindre le feu de Purgator par P. du Mou<g ref="char:EOLhyphen"/>lin la meſme 1635</item>
+                  <item>249 Anti-Cotton ou Refutation de la Lettre du P. Cotton 1590</item>
+                  <item>250 Replique de Moyſe Amyraut au livre de Launouy ſur le Reigne de 1000 ans a Saumur 1656</item>
+                  <item>251 Declaration de la ſincerite de l' Egliſe Reformee de France par D. Blondel.</item>
+                  <item>252 Sermon de la Savoy par Jean Durel Londre 1661</item>
+                  <item>253 La Converſion a Dieu ſur Joel 2. v. 13. par F. Murat G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neve 1623</item>
+                  <item>254 Jean Napier ſur l'Apocalyſe ou Revelation de St. Jean a la R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch 1607</item>
+                  <item>255 Nouveau Teſtament a Geneve 1654</item>
+                  <item>256 Prophities des Chatimens Serm. ſur Hebr. XII. 5, 6, 7, &amp;</item>
+                  <item>257 Reponſe au Livre de Monſieur Condom Intit. Conference avec Monſieur Claude a la Haye 1683</item>
+                  <item>258 Pſalmi en rime Italien a Diodati in Hairl. 1642</item>
+                  <item>259 Saintes Prieres pour dire ſur Mer ſur Terre &amp; en touts occaſione a Diepe 1660</item>
+                  <item>260 Deux Sermons de M. Daille Prononcez a Gharenton le Jour de Paſques &amp; 167<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>261 Lieux Communs de la Religion Chriſtien per And. Hyperius a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 1668</item>
+                  <item>262 Diſpute entre les Srs. Sam. de Chamberan &amp; Jean Journe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> a Saum. 1607</item>
+                  <item>263 Le Parable des Nopces, cinque Serm. de Jean <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a Charenton 1670</item>
+                  <item>264 L' Fortification de Sieur Antonie de Ville a Amſterd. 1672</item>
+                  <item>265 L' Methode d' Etudier par l' P. L. Thomaſin a Paris 1681</item>
+                  <item>266 Les Travaux de Mars ou la fortification nouvelle tant reguliere qu. irreguliere en trois partes par Allain Maneſon Mallet avec figures a Amſterdam 1672</item>
+                  <item>267 Sermons de St. Auguſtin ſur les Pſeaumes traduit par du Port Royal 7 Vol. a Paris 1683</item>
+                  <item>268 Les Deux Livres des Roys traduit en Francois pur Meſſieurs du Port Royal la meſme 1674</item>
+                  <item>269 Les Tragoedies de Seneque 2 Vol. par Marolles Franc. &amp; Lat. la meſme 1664</item>
+                  <item>270 L' Epiſtres de Seneque 2 Vol. la meſme <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>681</item>
+                  <item>271 Les Comoedies de Terence par Marolles Fr. &amp; Lat la meſme 1660</item>
+                  <item>272 Les Comoedies de Plaute 4 Vol. par Marolles Fr. &amp; Lat. la meſme 1658</item>
+                  <item>273 Les Oeuvres de Lucan contenant L' Hiſtoire des Guerres Civiles entre Ceſar &amp; Pom<g ref="char:EOLhyphen"/>pee par Marolles Fr. &amp; Lat. la meſme 1657</item>
+                  <item>274 Les Oeuvres de Ovid 7 Vol. par Marolles Fr. &amp; Lat. la meſme 1661</item>
+                  <item>275 Sermons par Jean Maximiliat de l' Angle a Geneve 1664</item>
+                  <item>276 Daille Melange de Sermons ſur divers ſuiets la meſme 1664</item>
+                  <item>277—Explication de l' Evangele Selon St. Jeane la meſme 1666</item>
+                  <item>278—Expoſition de la Coene la meſme 1664</item>
+                  <item>
+                     <pb n="8" facs="tcp:42926:7"/>279 Daille Paraphraſe ſur l' Evangile Selon St. Jeane a Saumur 1651</item>
+                  <item>280—Quinze Sermons ſur divers texts a Geneve 1669</item>
+                  <item>281—La Foy Fondue ſur la Verite a Charenton 1669</item>
+                  <item>282—Sermons delle Naiſſance de la Mort de Notre Seigneur a Geneve 1664</item>
+                  <item>283—Des Images a Geneve 1641</item>
+                  <item>284 Nouvelles Experiences ſur la Vipere par M. Charas a Paris 1669</item>
+                  <item>285 Du Regne de mille ans ou la proſperite de L' Egliſe par M. Amyraut a Saum. 1654</item>
+                  <item>286 Relation de la Chine par Meſſire Francois Bely a Paris 1668</item>
+                  <item>287 Explication del' Edit. de Nantes de M. Barnard avec de Novelles Obſervat. &amp; l' No<g ref="char:EOLhyphen"/>veaux Edits par M. Soulier la meſme 1683</item>
+                  <item>288 L' Cite de Dieu de St. Auguſtin 2 Vol. par Meſſieurs du Port Royal la meſme 1675</item>
+                  <item>289 L' Vie de St. Athanaſe 2 Vol. par du Meſme la meſme 1672</item>
+                  <item>290 Devoirs de L' Ame Chriſtienne ou la Pratique de Piete a Saumur 1668</item>
+                  <item>291 Grammaire Eſpagnolle Explicque en Francois par C. Oudin a Bruxelle 1919</item>
+                  <item>292 Dictionaire Italien &amp; Francois par Nat. Deuz. 2 Vol. a Geneve 1664</item>
+                  <item>293 Apologie pour ceux de la Religion par Moyſe Amyraut a Charenton 1648</item>
+                  <item>294 Paraphraſe du Cantique des Cantiques par M. de la Place a Saumur 1656</item>
+                  <item>295 Trait du Paix de l' Ame &amp; du Contentement de l' E par du Moulin la meſme 1680</item>
+                  <item>296 Dictionaire Eſpagnolle &amp; Francois par Ceſar Oudin a Lyon 1675</item>
+                  <item>297 Relation de Iſlande avec figures a Paris 1663</item>
+                  <item>298 De la Sageſſe trois Livres par Charron la meſme 1613</item>
+                  <item>299 La Cytheree A Madam la Ducheſſe de Lorraine 4 Vol la meſme 1644</item>
+                  <item>300 Les Guerres d' Alexander par Arrian la meſme 1655</item>
+                  <item>301 Les Epiſtres de St. Apoſtres par Jean Diodat a Amſterdam 1667</item>
+                  <item>302 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Cleoreſte de Monſr. de Belly a Lyon 1626</item>
+                  <item>303 J. A. Com<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nua Linguarum Lat. Germ. Gal. &amp; Ital. a Geneve 1643</item>
+                  <item>304 Les Filles Enlevees 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a Paris 1643</item>
+                  <item>305 L' Nouveau &amp; parfait Mareſchal Royal la meſme 1655</item>
+                  <item>306 L' Filles ſuppoſee la meſme 1639</item>
+                  <item>307 De la Nobleſee. Dialogue de Torquato Taſſo la meſme 1633</item>
+                  <item>308 De le Governement de L' Egliſe par Moyſe Amyraut a Saumur 1653</item>
+                  <item>309 L' Romain de Lettres a Paris 1667</item>
+                  <item>310 L' Pratique des Virtus Chreſtiennes ou tout les Devoirs de l' Homme la meſme 1681</item>
+                  <item>311 Les Joyes memorables &amp; glorieuſes de l' Ame fidelle repreſentes en XV Sermons par Jean Maximilien de l' Angle a Saumur 1669</item>
+                  <item>312 Hiſtoire du Governement de Veniſe par L Sieur Amelot a Paris 1676</item>
+                  <item>313 Journal de Voyage de France &amp; d' Italie fait par un Gentil-Homme Francois L' An. 1661. la meſme 1670</item>
+                  <item>314 Du Faux Viſage &amp; des Nullitez d' Antiquite par Ch. Drelincourt a Geneve 1666</item>
+                  <item>315 Les Conſolations de L' Ame Fidelle contre les Frajeurs de la Mort par Drelin<g ref="char:EOLhyphen"/>court a Paris 1672</item>
+                  <item>316 Hiſtoire des Edits de pacification par L' Sieur Soulier la meſme 1682</item>
+                  <item>317 Almahide ou L' Eſclave Reine par Monſr. de Scudery 8 Vol. la meſme 1660</item>
+                  <item>318 L' Faus Paſteur par Ch. Drelincourt la meſme 1656</item>
+                  <item>319 Les Aſcetique de St. Baſile le Grand par Monſieur Godef. Hermant du Sorbon la meſme 1672</item>
+                  <item>320 L' Hiſtoire &amp; Cronique de Normandie a Rouen 1581</item>
+                  <item>
+                     <pb n="9" facs="tcp:42926:7"/>321 L' Nouveau Teſtament a Nyort 1675</item>
+                  <item>322 Caſſandre 12 Vol. a Paris 1660</item>
+                  <item>323 Conduite Chreſtienne par le R. P. Ormeſſon (Minime) la meſme 1658</item>
+                  <item>324 Treize Sermons ſur les Theſſaloniclens par M. Faucheur a Geneve 1666</item>
+                  <item>325 Vint Sermons ſur divers Pſeaumes par M. Faucheur la meſme 1669</item>
+                  <item>326 Treize Sermons ſur les Epheſiens par M. Faucheur la meſme 1665</item>
+                  <item>327 Emanuel ou Paraphraſe Evangeliq. Comprenant l' Hiſtoire de 4tre Evangel. (Poeme Chreſtienne) par P. L. Noir. a Saumur 1678</item>
+                  <item>328 Grammaire Francois par Oudin (Antonio) a Rouen 1664</item>
+                  <item>329 Oeuvres Chyrurgicales de Hierome Fabrice a Lyon 1674</item>
+                  <item>330 Des Miſſions Eccleſiaſtiques par J. P. Cammus Paris 1643</item>
+                  <item>331 Sermons ſur les Larmes du St. Pierre par Pierre du Boſc Charent. 1670</item>
+                  <item>332 Decade de Sermons par P. du Moulin a Sedan 1666</item>
+                  <item>333 L' Grand Chirurgy de Maiſtre Guy de Chauliac a Bourdeaux</item>
+                  <item>334 L' Cleopatra 12 Vol. a Paris 1648</item>
+                  <item>335 Les Pſeaumes de David avec les Argum. &amp; Paraph. de Theo. Beza a Geneve 1581</item>
+                  <item>336 XX Sermons ſur divers Texts par Jean Meſtrezat la meſme 1657</item>
+                  <item>337 XX Sermons de Jean Daille la meſme 1657</item>
+                  <item>338 Repons au Charles Drelincourt a la Lettre du Prince Erneſt aux Miniſtres du Cha<g ref="char:EOLhyphen"/>renton la meſme 1664</item>
+                  <item>339 La Voyage ſeure conduiſant un chacun Chreſtien a Lafuray foy Cathol. trad. de l' Angl d' Humf. Linde a Charenton 1645</item>
+                  <item>340 Apologie de Moyſe Amyraut pour ceux de la Religion a Saum. 1647</item>
+                  <item>341 Traite des Anciennes Ceremonies conten. leur Origine &amp; entree en l' Egliſe Rou. 1673</item>
+                  <item>342 La Tyranny des Prejugez reponſe a Monſr. Jurieu par Louis du Moulin Lond. 1678</item>
+                  <item>343 Hiſtoire des Juifs par Flav. Joſephe a Paris 1612</item>
+                  <item>344 Hiſt. de l' Egliſe d' Alexandrie fondee par St. Marc la meſme 1677</item>
+                  <item>345 La Myſtere d' Iniquite ou l' Hiſt. de Papaute par P. de Mournay a Geneve 1612</item>
+                  <item>346 Les Oeuvres de Tacite de la traduct. de Sr. de Ablancourt 2 Vol a Amſt. 1670</item>
+                  <item>347 Lucien de meſme la meſme</item>
+                  <item>348 Obſervat. ſur les deux Declarat. du Roy Auril 2d. 1666 la meſme 1970</item>
+                  <item>349 Les Memoires de Jean P. de Leſcun a Paris 1617</item>
+                  <item>350 Commentaires de Meſſer Blaiſe de Montluc a Bourdeaux 1592</item>
+                  <item>351 Le Vite de XII. Ceſari di Gaio Suetonio Tranquillo in Fiorenz. 1611</item>
+                  <item>352 Hiſtoriale Deſcriptione de l' Afrique par Jean Leon a Anvers 1556</item>
+                  <item>353 L' Honeſt Homme ou l' Art de plaire a la Cour par le Sieur Faret a Paris 1639</item>
+                  <item>354 Dictionaire Francois Latin par Charles Paiot a Rouen 1661</item>
+                  <item>355 Grammaire Italienne par Ceſar Oudin a Lyon 1664</item>
+                  <item>356 Grammaire Francois &amp; Anglois a Rouen 1662</item>
+                  <item>357—Flamande &amp; Francois par J. L. d' Arey la meſme 1663</item>
+                  <item>358 L' petit Apparaut Royal ou l' Nouv. Dict. Fran. &amp; Lat.</item>
+                  <item>359 Faramond ou l' Hiſt. de France 12 Tom. 1664. a Paris 1684</item>
+                  <item>360 Artemene ou l Grond Cyrus par M. de Scudery 10 Vol. a Paris 1653</item>
+                  <item>361 Lettres de M. de Bongars a la Hague 1681</item>
+                  <item>362 Le Mercury Jeſuitique a Geneve 1661</item>
+                  <item>363 L' Facieux Revieil Matin des Eſprits Melancoliq. a Rouen 1656</item>
+                  <item>364 Les Oeuvres de Quevedo la meſme 1655</item>
+                  <item>365 Relation de Madrid ou Remarques ſur les Moeurs de ſes Habitants a Col. 1664</item>
+                  <item>
+                     <pb n="10" facs="tcp:42926:8"/>366 La Pathologie de Jean Fernel a Paris 1660</item>
+                  <item>367 Les VIII Livres de la Phiſiologie de J. Fernel trad. par A. de St. Jarmain Par. 1655</item>
+                  <item>368 Therapeut. Univerſelle par Fernel trad. par du Fiel la meſme 1648</item>
+                  <item>369 Oeuvres Chirurgicales de Hier. Fabrice a Lyon 1658</item>
+                  <item>370 Recherches &amp; Obſervat. Naturelles de Bacone a Amſterdam 1674</item>
+                  <item>371 Obſervations Diverſes de Lou. Bourgeas ſage femme a Paris 1652</item>
+                  <item>372 L' Anatomie Francois par Theo. Gelee a Rouen 1685</item>
+                  <item>373 Les Maladies de Femmes de Lat. de J. Libaut a Rouen 1649</item>
+                  <item>374 Traite des Fievres Utrecht 1682</item>
+                  <item>375 Les Secrets de Nature par Jac Wecker a Rouen 1663</item>
+                  <item>376 Les Oeuvres de Cor. Tacite par le Sieur D' Ablancourt 2 Vol. a Amſterd. 1670</item>
+                  <item>377—de Lucien par le Sieur D' Ablancourt 2 Vol. la meſme 1664</item>
+                  <item>378 Le Monde ou Traite de la Lumiere par Deſcartes a Paris 1664</item>
+                  <item>379 Les Tables de Sinus avec un traite de Trigonometrie par M. Ozanam la meſme 1684</item>
+                  <item>380—Idem par Valq. a la Haye 1666</item>
+                  <item>381 Conſiderations Hierarchiques par Jean P. Camus a Paris 1642</item>
+                  <item>382 Les Droicts de l' Egliſe Catholique par M. J. Bede a Geneve 1613</item>
+                  <item>383 Les Amours d' Ovid a Paris 1621</item>
+                  <item>384 Defenſe de Teſtament de Mons 3 Vol, a Cologne 1669</item>
+                  <item>385—Idem 2 Vol. la meſme 1682</item>
+                  <item>386 Les Elemens de Chyme de M. Jean Beguin a Rouen</item>
+                  <item>387 Raiſſonnements Chretiennes du Mond a Paris 1679</item>
+                  <item>388 Recueil des Traitez de Paix, Treues &amp; Neutralite entre les Couronnes d' Eſpagne &amp; de France</item>
+                  <item>389 L' Miſſionaire Apoſtolique par P. Francois Tholouze 12 Vol. a Paris 1676</item>
+                  <item>390 Novelle Methode pour Apprendre 'la Langue Grecque par Meſſieurs du P. Royal</item>
+                  <item>391—pour Apprendre Latine par Meſſieurs du Port Royal a Paris 1682</item>
+                  <item>392 Examen de l' Euchariſt de l' Egliſe Romaine par Monſieur Jurieu a Rotter. 1682</item>
+                  <item>393 Quinte Curce par Vaugelas la meſme 1684</item>
+                  <item>394 Sermons par l' R. P. Texier 8 Vol. a Paris 1683</item>
+                  <item>394 Macariſe 2 Vol. par Francois Hedelin la meſme 1667</item>
+                  <item>396 Faramond ou l' Hiſtoire de France 12 Vol. a Pris 1664</item>
+                  <item>397 La Morale Chreſtienne par Moyſe Amyraut 4 Vol. a Saum. 1652</item>
+                  <item>398 Inſtruction Chreſtienne ſur les Myſteres de noſtre Seigneur Jeſus Chriſt 5 Vol. par Meſſieurs du Port Royal a Paris 1673</item>
+                  <item>399 Les Emplois Eccleſiaſtiques du Clerge par Belley la meſme 1643</item>
+                  <item>400 Journal de Card. Duc de Richelieu 1648</item>
+                  <item>401 Pratique pour brievement apprendre a Ciffrer &amp; tenir Livres de Comptes, avec les Regles de Coſs &amp; Geomet. par M. Alleman Anvers 1565</item>
+                  <item>402 Le Threſor des Hiſtoires de France par Giles Corrozet a Paris 1634</item>
+                  <item>403 L' Impiete domptee ſous les Fleurs de Lys par Nic. Cauſin la meſme 1639</item>
+                  <item>404 Voyage de France</item>
+                  <item>405 Actes de la Conference du Sieur du Moulin la meſme 1618</item>
+                  <item>406 L' Paſteur Fidelle Tragicomed. trad. d' Italien par Ant. Giraud la meſme 1623</item>
+                  <item>407 Le Cabinet Satyrique la meſme 1634</item>
+                  <item>408 Examen du Livre des Recreations Mathemat. en Geomet. Mechanique, Optique &amp; Arithmetique par C. Mydorge a Rouen 1643</item>
+                  <item>409 Comenii Janua Linguarum Lat. &amp; Dutch Marpurgi 1641</item>
+                  <item>
+                     <pb n="11" facs="tcp:42926:8"/>410 L' Honeſt Homme ou l' Art de plaire a Paris 1636</item>
+                  <item>411 L' Soldat Suedois a Rouen 1642</item>
+                  <item>412 Harangue par Jean Richelieu a Paris 1615</item>
+                  <item>413 Traicte de la Conformite du Langue Francois la meſme 1569</item>
+                  <item>414 Traicte des Facons &amp; Couſtumes des Ancienne Galloys la meſme 1559</item>
+                  <item>415 L' Barbon par Monſr. Balzac la meſme 1648</item>
+                  <item>416 Traicte de la Chymie par la Febvre 3 Vol. la meſme 1660</item>
+                  <item>417 Les Elements de Chymie par M. Jean Beguin la meſme 1624</item>
+                  <item>418 Hiſtoire de Dignitez Honoraires de France par le Sieur Lazare la meſme 1635</item>
+                  <item>419 Diverſes Pieces pour la Defence de la Reyne Mere du Roy tres Chreſtienne Louis XIIIme 1643</item>
+                  <item>420 De la Republique de Suiſſes par Joſ. Simler a Anvers 1579</item>
+                  <item>421 Les Oeuvres diverſes du Sieur Balzac a Rouen 1658</item>
+                  <item>422 Hiſtoire d' Arthemiſe</item>
+                  <item>423 Les Dialogues de Tahvreau a Paris 1565</item>
+                  <item>424 Des Satyres Brutes de Monſieur F. Hedelin la meſme 1627</item>
+                  <item>425 Les Chaſtes Amours d' Armonde</item>
+                  <item>426 Les Morales de Torquato Taſſo par Jean Baudoin la meſme 1632</item>
+                  <item>427 Eſſeignement a bien Former des Saints a Geneve 1563</item>
+                  <item>428 L' Comedie des Comediens par Monſieur Scudery a Paris 1635</item>
+                  <item>429 L' Hiſtoire Comique de Francion par Dr. Moulinet</item>
+                  <item>430 Les Oeuvres de Don Fran. de Quevedo a Rouen 1665</item>
+                  <item>431 Les Diverſes Lecons de Pierre Meſſie a Tournon. 1604</item>
+                  <item>432 L' Novelle Natura Brevium de Mr. Fitzherbert a Londre 1553</item>
+                  <item>433 Remarques Neceſſaires pour la Coulture des Fleurs par Morin a Paris 1658</item>
+                  <item>434 Sermons ſur l' Hiſtoire du Reſurrection</item>
+                  <item>435 De la Verite de la Religion Chreſtien par P. Mornay Anvers 1582</item>
+                  <item>436 Libro de la Converſation de Buen Ladron la meſme 1606</item>
+                  <item>437 Grammaire Francois par Ant. Oudin a Rouen 1645</item>
+                  <item>438 Bouclier de la Foy par P. du Moulin a Geneve 1654</item>
+                  <item>439 L' Arrivee Apoſtolique par Jean Labadie a Middelbourg 1667</item>
+                  <item>440 L' Eſprit de Torquato Taſſo a Paris 1632</item>
+                  <item>441 Les Saints Affections de Joſeph &amp; les Amours de la Vierge par L. Serre Brux. 1631</item>
+                  <item>442 La Philoſophie par Pierre du Moulin a Paris 1644</item>
+                  <item>443 Hiſtoire de Roland Amoreux a Lyon 1618</item>
+                  <item>444 La Vie du Cardinal Altornez</item>
+                  <item>445 Curioſitez Francois pour ſupplement au Dict. par Oudin a Paris 1640</item>
+                  <item>446 La Hieruſalem du Sr. Torq. Taſſo rendue Francois par Bl. de Vigeneu a Par. 1599</item>
+                  <item>447 Eſſay d'un Parfait Grammair de la Langue Francois par Chiflet Anvers 1664</item>
+                  <item>448 De la Verite de la Religion Chreſtien par Ph. de Mornay a Paris 1582</item>
+                  <item>449 Hiſtoire Romaine juſque a Neron par F. N. Coeffeteau 2 Vol. a Rouen 1662</item>
+                  <item>450 Traite de la Juſtice Chreſtienne par J. de l' Eſpine 1587</item>
+                  <item>451 Hiſt. des Miracles advenus a l'interceſſion de la glorieuſe Vierge Marie a Brux. 1625</item>
+                  <item>452 La Pratique du Chevalier par R. Menou a Paris 1636</item>
+                  <item>453 Le Prince de Guiſe Trag-Comed. par M. Scudery 1636</item>
+                  <item>454 La Chrithec de Mr. le Roy Sieur de Gomberville 1621</item>
+                  <item>455 Hipparque du Religieux Marchand diſpute entre Mediaſtin &amp; Timothie 1645</item>
+                  <item>456 De la Sageſſe par M. Charron a Bourdeaux 1601</item>
+                  <item>
+                     <pb n="12" facs="tcp:42926:9"/>457 Hiſtoire Celtique ſous les Noms d' Amiendorix &amp; de Celanire</item>
+                  <item>458 M. Plaute Comedie Francois &amp; Lat. 4 Vol. a Paris 1658</item>
+                  <item>459 Hiſtoire du B Jean de Montmirel &amp;c. par J B. de Machut. la meſme 1641</item>
+                  <item>460 Les Eſſays de M. Sieur de Montaigne la meſme 1600</item>
+                  <item>461 L' Anatomie Francois en Forme de Abrege par T. Gelee Medicin de Dieppe la meſme 1642</item>
+                  <item>462 Recueil General des Queſtions Traictees es Conferences du Boreau d' Adreſſe par le plus beaux eſprits 5 Vol. la meſme 1660</item>
+                  <item>463 Novelles Experiences ſur la Vipere par M. Charras la meſme 1669</item>
+                  <item>464 Methode d' Elever les Enfans ſelon les Regles de la Medicin par Goſtin a Par. 1675</item>
+                  <item>465 Eſſays de Merveilles de Nature &amp; des Plus Nobles Artifices par R. Francois la meſme 1638</item>
+                  <item>466 Examen du Livre des Recreations Mathemat. par Cl. Mydorge la meſme 1638</item>
+                  <item>467 Principes &amp; la Doctrine de Rome par l' Eveſq. de Lincoln 1679</item>
+                  <item>468 La Phyſique Demonſtrative en trois Livres par de Richas la meſme 1643</item>
+                  <item>469 Maniere Univerſale de M. Deſargues pour Pratiquer la perſpective par petit pied &amp;c. par A. Beſſe avec figures la meſme 1648</item>
+                  <item>470 La Parfait Hermite deſcrit en la perſone de Fr. Heymerie Roudilh de St. Vericens a Agent 1658</item>
+                  <item>471 Les Secrets du Sr. Alexis Piemontois a Anvers 1581</item>
+                  <item>472 Advertiſement aux Fidelles ſur les Diſputes des Miſſionaires par Ch. Drelincourt a Geneve 1667</item>
+                  <item>473 Abrege des 2 Sermons qui ont procede l' Ordination dun Paſteur par Jean Deſpayne a Londres 1650</item>
+                  <item>474 Les Elemens Geomet. d' Euclid avec figures par P. Mardale a Paris 1632</item>
+                  <item>475 L' uſage des Ephemerides avec figures la meſme 1624</item>
+                  <item>476 Les Oeuvres de Theodhile contenant l' Immortalite de l'Ame a Rouen 1661</item>
+                  <item>477 Hiſtoire d' Henry le quatrieme par P. Matthieu</item>
+                  <item>478 Les Oeuvres de Mr. J. Bellot la meſme 1669</item>
+                  <item>479 La Pretieuſe, ou la Myſtere de la Ruetle 1. partie a Paris 1656</item>
+                  <item>480 Hiſtoire de la Reunion du Royaume de Portugal 2 Vol. la meſme</item>
+                  <item>481 Pharmacopee de Bauderon la meſme 1639</item>
+                  <item>482 La Philoſophie Chreſtienne ou Perſuaſions Puiſſants au Meſpris de la Vie la meſme 1637</item>
+                  <item>483 La Fidele Conducteur pour le Voyage de l' Angleterre</item>
+                  <item>484 L' Voyageur d' Europe par Monſr. a Jovoin 1672</item>
+                  <item>485 L' Prince de Monſr. Balzac 1632</item>
+                  <item>486 Accompliſſement de Propheties par P. du Moulin a Geneve 1660</item>
+                  <item>487 Hiſtoire Generale de Serrail &amp; de la Cour de Grand Seigneur a Rouen 1638</item>
+                  <item>488 Les Oeuvres de Plutarque trad. par Amyot 4 Vol. a Paris 1623</item>
+                  <item>489 Grammaire Italienne miſs. &amp; expliq. en Francois par Oudin la meſme 1623</item>
+                  <item>490 Hiſtoire Eccleſiaſtiq. d' Euſebe de Ceſaree Anvers 1533</item>
+                  <item>491 Commentaires de l' Eſtat de la Relig. ſous les Roys Henry &amp; Francois 2d. &amp; Charles le 9me 1565</item>
+                  <item>492 L' Trompeur puny. Trag Comed. par Scudery</item>
+                  <item>493 Traite de la Trigonomet. pour reſoudre touts Triangles rectilignes la meſme 1636</item>
+                  <item>494 Factum pour les Religieurs de St. Catherine les Provinces</item>
+                  <item>495 Dialogues fort Recreatifs es Eſpagnol, Ital. Alleman &amp; Francois par Oudin 1650</item>
+               </list>
+               <list>
+                  <pb n="13" facs="tcp:42926:9"/>
+                  <head>
+                     <hi>Gallici,</hi> &amp;c. in Duodecimo.</head>
+                  <item>1 Oeuvres de Seneque 8 Vol. a Lyon 1663</item>
+                  <item>2 L' Abrege de l' Hiſtoire Univerſelle par Buſieres 2 Vol. la meſme 1681</item>
+                  <item>3 Il Paſtor Fido Ital. &amp; Franc. Colon. 1678</item>
+                  <item>4 Lettres familiares de Balzac a Leyde 1656</item>
+                  <item>5 El Teſtamento Nuevo en Venetia 1556</item>
+                  <item>6 Traitte de la Jalouſie a Paris 1677</item>
+                  <item>7 La Sampogno del Caval Marino in Venet. 1643</item>
+                  <item>8 Semaine des Meditations &amp; Prieres a Amſterdam 1629</item>
+                  <item>9 Voyages de Monſr. Payen a Pais 1667</item>
+                  <item>10 La Vie &amp; Actions d' Eveque de Munſter a Leyde</item>
+                  <item>11 Memoires pour ſervir a l' Hiſtoire d' Hollande a Paris 1680</item>
+                  <item>12 Les Impoſteurs Infignees par J.B. Rocoles a Amſterdum 1682</item>
+                  <item>13 Hiſtoire de Wiclefianiſme a Lyon 1682</item>
+                  <item>14 Opere di Ferrante Pallavicino 2 Vol. 1673</item>
+                  <item>15 Les Nouvelles de convertes a Franck. 1681</item>
+                  <item>16 Amours de Leandre &amp; d' Hero a Paris 1681</item>
+                  <item>17 Hiſtoire Poetique par Galtruche a la Haye 1681</item>
+                  <item>18 La Rete di Volcano di Fer Pallavicino in Venetia 1647</item>
+                  <item>19 Le Miniſtere du Card. Mazarine 2 Vol. a la Haye 1671</item>
+                  <item>20 Il Cornero Sualigato in Norinberg 1646</item>
+                  <item>21 Le Secretaire Francois a Paris</item>
+                  <item>22 La Politique du Clerge de France a la Haye 1681</item>
+                  <item>23 Proceſſe de Vicomte Strafford a Cologue 168</item>
+                  <item>24 Imitation de Jeſus Chriſt par Corneille, avec figures a Rouen 1659</item>
+                  <item>25 La Logique des amans a Paris 1673</item>
+                  <item>26 Pourtrait Royale de Charles premier a la Haye 1649</item>
+                  <item>27 Diſſertation ſur les Principes de mixtes Naturelles 1680</item>
+                  <item>28 Les Ruſes d' Amour a ville Franche 1681</item>
+                  <item>29 Lettres &amp; Traittes Chriſtiennes a Bergerac 1613</item>
+                  <item>30 Les Livres d' Apocryphes</item>
+                  <item>31 Decret de Pape Innocente 9me contre la Morale 1629</item>
+                  <item>32 Opere del Vergilio Malvezzi in Geneva 1635</item>
+                  <item>33 Poefics diverſes du Furetiere a Paris 1669</item>
+                  <item>34 La Philoſophie des Gens de Cour la meſme 1685</item>
+                  <item>35 Mercure Hollandois depuis l'an 1672. juſqu'a 1683. 12 Vol</item>
+                  <item>36—La Meſme pour l'an 1683. (ſepar.)</item>
+                  <item>37 Traitte de la Paix de l'Ame, par <hi>P.</hi> du Moulin a Amſterdam 1684</item>
+                  <item>38 Vies des Hommes Illuſtres de Plutarque, traduit par l' Abbe Tallemont 8 Vol. 1681</item>
+                  <item>39 L' Heroine Mouſquetaire a Amſterd. 1678</item>
+                  <item>40 Delices de la Hollande avec figures 1678</item>
+                  <item>41 France en Nederlantſche Oorlogen 2 Vol. Amſt. 1675</item>
+                  <item>42 Diſcourſe des Miracles, des Saintes, &amp; d' Images a Rouen 1602</item>
+                  <item>43 Les Fables &amp; la Vie d' Eſope 1651</item>
+                  <item>44 Hiſtoire de France abrege de Verdier 3 Vol. a Paris 1666</item>
+                  <item>
+                     <pb n="14" facs="tcp:42926:10"/>45 Traitte de la Morale de P. Malbranche a Rotterd. 1686</item>
+                  <item>46 Negotiations de la Paix de Nimegue 2 Vol. a Amſt. 1619</item>
+                  <item>47 Nouveau Teſtament a Mons 1672</item>
+                  <item>48 Relation des differences entre D. Jean &amp; Cardin. Nitard a Paris 1671</item>
+                  <item>49 Oeuvres de Fran. Rablais a Lyon</item>
+                  <item>50 Les Scavans Hommes par And. Thevet 8 Vol. a Paris 1671</item>
+                  <item>51 Pratique de la Geometrie par le Clerc la meſme 1683</item>
+                  <item>52 Quatre Dialogues ſur l'immortalite de l' Ame, &amp;c la meſme 1684</item>
+                  <item>53 Hiſtoire Critique des Nations Levants a Franc. 1684</item>
+                  <item>54—Des Revenues Eccleſiaſtiques la meſme 1684</item>
+                  <item>55 Oeuvres de Scarron 4 Vol. a Amſterd. 1668</item>
+                  <item>56 Hiſtoire de la Vie de Duc d' Eſpernon 3 Vol. a Rouen 1663</item>
+                  <item>57 Le Boufon de la Cour a Paris</item>
+                  <item>58 Hiſtoire de Don Quixot la meſme 1681</item>
+                  <item>59 Traitre du Caufe, du The &amp; du Chocolate a la Haye 1681</item>
+                  <item>60 Meditations Chreſtiennes par Malbranche a Cologn 1683</item>
+                  <item>61 Homais Reyne de Tunis a Amſterdam 1681</item>
+                  <item>62 Entretien d'un Francois avec un Hollandois a Cologn 1683</item>
+                  <item>63 Delices de la Hollande avec figures a Amſterdam 1685</item>
+                  <item>64 Le Nouveau Teſtament a la Haye 1664</item>
+                  <item>65 Les Pſeaumes en Rime par Conrart a Amſt. 1678</item>
+                  <item>66—Meſme par les Paſteurs de Geneve 1659</item>
+                  <item>67 L' Orateur Chretien ou Traite de l' Excellence &amp; de la Pratiq. de la Chair a Par. 1675</item>
+                  <item>68 La Pratique de Piete trad. de l' Angl. 1662</item>
+                  <item>69 Le meſpris du Monde par Iſ. Arnauld 1618</item>
+                  <item>70 Meditations Sainctes de Gerhard, trad. de l'Angl. a Gen. 1654</item>
+                  <item>71 Traitte de la Devotion a Rotterdam 1682</item>
+                  <item>72 Eſſais de Morale 4 Vol 1672</item>
+                  <item>73 Hiſtoire de l' Egliſe par Meſſieur Antoine Godeau 6 Vol a Amſterdam 1680</item>
+                  <item>74 Nouvelle Defenſe de la traduct. du Nouveau Teſtament imprime a Mons avec la continuation 2 Vol. a Col. 1682</item>
+                  <item>75 Abrege de l' Hiſt. du Concile de Trente par Pierre Jurieu 2 Vol. a Amſt. 1683</item>
+                  <item>76 Hiſtoire du Wiclefianiſme 1682</item>
+                  <item>77 Lettre a un amy ſur la Livre intit. Hiſt. Critiq. du V. Teſt. a Amſt. 1679</item>
+                  <item>78 Examen du Methode Pacifiq. du P. Maimbourg a Rot. 1684</item>
+                  <item>79 Exam. de l' Euchariſte Romaine la meſme 1684</item>
+                  <item>80 Exam. du Livre intit. Prejugez legitimes par Monſr. Pajon 3 part. la meſme 1684</item>
+                  <item>81 Penſees diverſes Ecrites a un Doctr. de Sorbonne a l'occaſion de la Comete au Mois de Decemb. 1680 la meſme 1683</item>
+                  <item>82 Ceremonies Nuptiales de toutes les Nations a Paris 1637</item>
+                  <item>83 Hiſt. de Veniſe de B. Nani 3 Vol. a Col. 1682</item>
+                  <item>84 L' Eſtat Preſent de l' Angleterre 2 part. a Amſt. 1671</item>
+                  <item>85 Remarques ſur l' Eſtats des Pais-bas Unies par le Sr. Temple a la Haye 1679</item>
+                  <item>86 Dialogues Politiques ou la Politique dont ſe ſervent les Princes &amp; Republiq. Italien. pour conſerv. leurs Eſtats 2 Vol. a Paris 1681</item>
+                  <item>87 Il Trattato della Pace concluſa fra le due Corone an. 1659. in Brem. 1663</item>
+                  <item>88 Hiſtoire de la Decadence de l' Empereur par L. Maimbourg a Amſt. 1681</item>
+                  <item>89 Conſiderat. Politiq. ſur la Guerre entre la France &amp; la Hollande la meſme 1681</item>
+                  <item>
+                     <pb n="15" facs="tcp:42926:10"/>90 Entretien de Philarete &amp; d' Eugene ſur la Paix de Nimegue a Duisb. 1678</item>
+                  <item>91 Les Affairs entre les Maiſons de France &amp; d' Auſtriche 1662</item>
+                  <item>92 Les ſix Voyages de J. Bapt. Tavernier en Turquie, &amp;c. 3 Vol. 1679</item>
+                  <item>93 Relation d'une Voyage en Angleterre a Cologne 1666</item>
+                  <item>94 Hiſt. du Henry le Grand a Amſt. 1679</item>
+                  <item>95 Memoires de Monſr. de Duc de Guiſe 2 Vol. a Col. 1668</item>
+                  <item>96 La Vie de Vicomte de Turenne par Mr. du Buiſſon 1685</item>
+                  <item>97 Les Vies des Hommes Illuſtre de Plutarque, trad. par l'Abbe Tallemant 9 Vol. 1681</item>
+                  <item>98 Recueil de diverſes Pieces &amp; Letters concern. la Regale a Col. 1681</item>
+                  <item>99 —des Defences de Monſr. Fouquet, 5 Tom. ſuite des Defences 7 Tom. Conclu<g ref="char:EOLhyphen"/>ſion des Defences 1 Tom. 13 Vol. a Amſt. 1668</item>
+                  <item>100 —des Pieces concernt. le Monaſt. de Charonne a Col. 1681</item>
+                  <item>101 L' Homme de Cour trad. de l'Eſpagn. a Paris 1684</item>
+                  <item>102 Mercure Hollandois de l'an. 1684. a Amſt. 1685</item>
+                  <item>103 Vienne deux fois aſſiegee par les Turcs 1526, &amp; 1684. &amp; heureuſemt. delivree</item>
+                  <item>104 Journal du Siege de Vienne a Amſt. 1684</item>
+                  <item>105 Memoires de Louis le Grand 1685</item>
+                  <item>106 La France ſans borns 1684</item>
+                  <item>107 La France Auguſte en Abrege a Utrecht 1681</item>
+                  <item>108 L' Ecole des Princes a Amſt. 1671</item>
+                  <item>109 Penſees de Monſr. Paſchal 1679</item>
+                  <item>110 Nouvelle Methode pour apprendre la langue Italien a Paris 1664</item>
+                  <item>111 —La Meſme a Nymegue 1678</item>
+                  <item>112 Inſtitutio Ling. Gallice a Franciſco de Fenne L. Bat. 1680</item>
+                  <item>113 L'Art de Parler a Amſterdam 1676</item>
+                  <item>114 Journal des Scavans de l' An. 1683</item>
+                  <item>115 Principes de Coſmographie a Paris 1637</item>
+                  <item>116 Nouvelle Maniere de Fortifier les places par Monſr. Blondel 1684</item>
+                  <item>117 L'Art de la Guerre a Paris 1681</item>
+                  <item>118 La Bête transforme en machine a la Haye 1684</item>
+                  <item>119 La Morale Pratique des Jeſuites a Col. 1669</item>
+                  <item>120 Les Entretiens d' Ariſte &amp; d' Eugene a Amſterdam 1671</item>
+                  <item>121 Opere ſcelte di Ferrante Pallavicino 1673</item>
+                  <item>122 De Ragguagli di Parnaſſo del Traj. Boccalini 2 Vol. la meſme 1669</item>
+                  <item>123 Il Nipotiſmo di Roma 1667</item>
+                  <item>124 Recueil des Enigmes, &amp;c. avec figures a Amſt. 1684</item>
+                  <item>125 L' Empereur &amp; l Empire trahis par qui &amp; comment. a Cologne 1682</item>
+                  <item>126 La Politique du Clerge de France a Amſterdam 1680</item>
+                  <item>127 Oeuvres de Moliere 5 Vol. la meſme 1629</item>
+                  <item>128 —de Monſr. Racine 2 Vol. la meſme 1678</item>
+                  <item>129 L' Aminte du Taſſe Paſtorale a la Haye 1681</item>
+                  <item>130 Il Paſtor Fido (Italien) in Colon. 1677</item>
+                  <item>131 Statira Tragoedie par Pardon 1680</item>
+                  <item>132 L' Ombre de ſon Rival Comoed.</item>
+                  <item>133 Triumphe de l' Amour Ballet 1681</item>
+                  <item>134 Hiſtoire de Don Quixot 4 Vol. a Amſt. 1681</item>
+                  <item>135 Les Oeuvres de Boyleau a Amſt. 1684</item>
+                  <item>
+                     <pb n="16" facs="tcp:42926:11"/>136 Extraits de tous les beaux Endroits des Ouvrages des plus celebres Autheurs par le Sr. Corbinelli 3 Vol. a Amſt. 1681</item>
+                  <item>137 Memoires Gallans ou les avantures amoureus d'un Perſonne de Qualite 1680</item>
+                  <item>138 Les Ruſes d' Amour pour rendre ſes favoris contens 1681</item>
+                  <item>139 Entretiens Gallans Tom. premier a Paris 1681</item>
+                  <item>140 L' Enfer Burleſque ou la Marriage de Belphegor a Col. 1677</item>
+                  <item>141 Lettre conten. le Voyage du Prince d'Orange en Angleterre l'an. 1677</item>
+                  <item>142 Lettres de Monſr. Voiture a Weſſel 1698</item>
+                  <item>143 La Valize Ouverte a Paris 1680</item>
+                  <item>144 L. Maimbourg Hiſt. des Iconoclaſtes a Amſt. 1683</item>
+                  <item>145 —Hiſt. du Schiſme d' Occident la meſme</item>
+                  <item>146 —de la Decadence de l' Empire la meſme 1681</item>
+                  <item>147 —des Croiſſades 2 Vol. la meſme 1682</item>
+                  <item>148 —d' Arrianiſme 3 Vol. la meſme 1682</item>
+                  <item>149 —de Lutheraniſme la meſme 1681</item>
+                  <item>150 —du Schiſme des Grecs la meſme 1682</item>
+                  <item>151 Tableau de la Poenitence de Godeau la meſme</item>
+                  <item>152 Contes &amp; Nouvelles de Monſr. Fontaine la meſme 1685</item>
+                  <item>153 Hiſtoire de Republique de Veniſe par B. Nani 2 Vol. a Colog. 1682</item>
+                  <item>154 Memoires de la Paix de Nimegue 4 Vol. a Amſterd. 1683</item>
+                  <item>155 Oeuvres de Lucien par d' Ablancourt 2 Vol. la meſme 1683</item>
+                  <item>156 —Vol. 3me. (ſepar.) a Paris 1674</item>
+                  <item>157 Quinte Curce de Monſr. Vaugelas a Amſterd. 1684</item>
+                  <item>158 Hiſtoire des 3 derniers Empereurs des Turcs par le Sieur P. Ricaut la meſme 1683</item>
+                  <item>159 Illades &amp; Odyſſees d' Homere 2 Vol. la meſme 1682</item>
+                  <item>160 Hiſt. de Conſtantinople traduite par Monſr. Couſin 8 Vol. la meſme 1685</item>
+                  <item>161 Oeuvres de Franc. Mothe le Vayer 15 Vol. a Paris 1669</item>
+                  <item>162 Traittez entre France &amp; Eſpagne a Anvers 1645</item>
+                  <item>163 Lettres contre l' Hiſt. du Calviniſme 2 Vol. 1685</item>
+                  <item>164 Recueil des diverſes Pieces Curieuſes a Col. 1663</item>
+                  <item>165 —des Pieces Gallantes la meſme 1663</item>
+                  <item>166 La France demaſquee a la Haye 1671</item>
+                  <item>167 La Mere Coquette ou les amans Brouillez a Paris 1666</item>
+                  <item>168 L' Eſcole des Femes 1663</item>
+                  <item>169 La Rome Ridicule par Amant</item>
+                  <item>170 Les Eloges des Hommes Scnvans a Paris 1683</item>
+                  <item>171 Oeuvres de Ciceron par du Ryer 12 Vol. la meſme</item>
+                  <item>172 L' Homme de Cour par Gracian a Paris 1685</item>
+                  <item>173 Penſees de Paſchal ſur la Religion a Amſt. 1674</item>
+                  <item>174 Trois Letters de Monſr. Malbranche a Rot. 1685</item>
+                  <item>175 Elite des Contes d' Ouville primier partie a Paris 1661</item>
+                  <item>176 Journal de la Guerre de l' Hollande la meſme 1673</item>
+                  <item>177 Le Virgile Traveſtie de Scarron a Rouen 1662</item>
+                  <item>178 Derniers Oeuvres de Scarron a Paris 1663</item>
+                  <item>179 La Philoſophie par P. du Moulin a Rouen 1655</item>
+                  <item>180 Les Delices de la France avec figures 2 Vol. a Amſt. 1670</item>
+                  <item>181 Recueil des diverſes Pieces a la Haye 1669</item>
+                  <item>182 Le Miniſtere d' Etat par Monſr. Silhon 3 Vol. a Amſterdam 1684</item>
+                  <item>
+                     <pb n="17" facs="tcp:42926:11"/>183 Le Cabinet Satyrique 1666</item>
+                  <item>184 Recueil de Henry 3me a Cologne 1662</item>
+                  <item>185 L' Apoticaire de Qualite la meſme 1666</item>
+                  <item>186 Memoirs touchant les Ambaſſadeurs la meſme 1626</item>
+                  <item>187 Recueil Hiſtorique la meſme 1666</item>
+                  <item>188 Conjuration du Comte de Fieſque la meſme 1669</item>
+                  <item>189 Scena Rhetorica di Fer. Pallavicino 1669</item>
+                  <item>190 Traitte de la Nature &amp; de la Grace par Malbranche a Rotter. 1684</item>
+                  <item>191 Satyre Menipee de la Vertue a Ratisb. 1664</item>
+                  <item>192 Memoires de Madm. Marie a Col. 1677</item>
+                  <item>193 Caeſarion ou Entretiens diverſes a la Haye 1685</item>
+                  <item>194 Le Comte de Gablais a Amſt. 1671</item>
+                  <item>195 La Retorique de Ciceron a Paris 1652</item>
+                  <item>196 Hiſt. de Charles 9me. par Varillas a Col. 1686</item>
+                  <item>197 Voyages de J. Bapt. Tavernier 3 Vol. a Amſt. 1629</item>
+                  <item>198 De la Recherche de la Verite 3 Vol. a Paris 1675</item>
+                  <item>199 Abrege de l' Hiſt. de France par Mezeray 6 Vol. a Amſt. 1682</item>
+                  <item>200 Les Commentaires de Caeſar par d' Ablancourt la meſme 1678</item>
+                  <item>201 Hiſt. du Calendrier Romaine par Blondel 1684</item>
+                  <item>202 Le Livre de Geneſe Lat. &amp; Fr. par Meſſieurs du Port Royal 2 Vol. la meſme 1672</item>
+                  <item>203 —d' Exode &amp; Levitique du meſme 1673</item>
+                  <item>204 Les deux premiers Livres des Roys du meſme 1679</item>
+                  <item>205 Les Pſeaumes de David du meſme 1678</item>
+                  <item>206 Proverbes de Solomon Fr. &amp; Lat. du meſme 1678</item>
+                  <item>207 Eccleſiaſte de Solomon du meſme 1679</item>
+                  <item>208 Iſaie Lat. &amp; Fr. du meſme a Amſterd. 1679</item>
+                  <item>209 Les Douze Petits Prophetes du meſme 1681</item>
+                  <item>210 Hiſtoire de l Egliſe par Godeau 6 Vol. la meſme 1680</item>
+                  <item>211 Oeuvres de Racine la meſme 1682</item>
+                  <item>212 — de Moliere 5 Vol. 1685</item>
+                  <item>213 Secretaire a la mode Reformee a Leyde 1684</item>
+                  <item>214 Converſations Nouvelles a Amſterdam 1683</item>
+                  <item>215 Nouvelles de la Republique des Lettres 2 Vol. la meſme 1684</item>
+                  <item>216 —Idem Vol. 3me.</item>
+                  <item>217 Recueil des Opera la meſme 1684</item>
+                  <item>218 Logique ou l' Art de Penſer la meſme 1675</item>
+                  <item>219 Converſations de Madm. de Scudery la meſme 1685</item>
+                  <item>220 Lettres Provinciales de Montalte la meſme 1669</item>
+                  <item>221 Recueil des Hiſtoires Gallants 1680</item>
+                  <item>222 Le Moyen de Parvenir 1669</item>
+                  <item>223 Fortificat. de Comte Pagan Bruſſ. 1674</item>
+                  <item>224 Defence du Coeur contre l'Amour a Amſterdam 1681</item>
+                  <item>225 Memoires de Rochefocault a Col. 1669</item>
+                  <item>226 Morale Practique des Jeſuites 1669</item>
+                  <item>227 Bouclier d' Eſtat &amp; la Juſtice 1667</item>
+                  <item>228 Siecle d' Or de Cupidon a Cologn 1685</item>
+                  <item>229 Les Dames Gallants a Amſt. 1685</item>
+                  <item>230 Hiſt. de Mogol par Bernier 2 Vol. la meſme</item>
+                  <item>
+                     <pb n="18" facs="tcp:42926:12"/>231 Avis Fidelle aux Hollandois 1673</item>
+                  <item>232 Oeuvres de Balzac 2 Vol. a Rouen 1658</item>
+                  <item>233 Lettres de Balzac a Monſieur Conrart a Amſterdam 1664</item>
+                  <item>234 Ariſtippe ou de la Cour par Monſieur Balzac 1664</item>
+                  <item>235 Entretiens de Monſieur Balzac 1663</item>
+                  <item>236 Lettres Choiſies de Monſieur Balzac 1678</item>
+                  <item>237 Oeuvres diverſes de Monſieur Balzac 1664</item>
+                  <item>238 Liturgie de l' Egliſe Anglicane a Lond 1683</item>
+                  <item>239 —Idem bound in Turky Leather and gilt</item>
+                  <item>240 Nouveau Teſtament (Turkey) a Amſt. 1678</item>
+                  <item>241 Bible Francois (Turkey) la meſme 1678</item>
+                  <item>242 Liturgia ſecundo Chieſa Angli Londra 1685</item>
+                  <item>243 —Idem (Turkey gilt)</item>
+                  <item>244 Le Raſibus ou le Procez fait a la barbe des Capucins a Col. 1680</item>
+                  <item>245 Dialogues Ruſtiques 2 parties 1657</item>
+                  <item>246 L' Heureux Eſclave 3 part. avec figures a Col. 1680</item>
+                  <item>247 Homais Reyne de Tunis a Amſt. 1681</item>
+                  <item>248 Beralde Prince de Savoye a Leyde 1672</item>
+                  <item>249 Le Double Cocu a Lond. 1678</item>
+                  <item>250 La Romant Comique 3me partie 1680</item>
+                  <item>251 Dom Sebaſtien Roy de Portugal 1680</item>
+                  <item>252 Marie d' Anjou Reyne de Mayorque a Amſterd. 1680</item>
+                  <item>253 L' Amour Marie ou le Biſerrarie de l' Amour en l' Etat de Marriage a Col. 1681</item>
+                  <item>254 Le Putaniſme d' Amſterdam 1681</item>
+                  <item>255 Le Rappel des Jeſuites en France a Col. 1678</item>
+                  <item>256 Ovide en belle Humeur 1660</item>
+                  <item>257 Le Secretaire de la Cour a Rouen 1655</item>
+                  <item>258 Le Secretaire Critique a Amſterdam 1680</item>
+                  <item>259 Reponſe a la Relation du Voyage de Sorbier en Angleterre la meſme 1675</item>
+                  <item>260 Les Saintes Affections de Joſeph &amp; les Amours de la Vierge par le Serre Brux. 1631</item>
+                  <item>261 La Philoſophie par Pierre du Moulin a Paris 1644</item>
+                  <item>262 Hiſtoire de Roland Amoreux a Lyon 1614</item>
+                  <item>263 La Vie du Cardinal Altornox</item>
+                  <item>264 Curioſitez Francoiſes pour ſuppliment aux Dictionaires par Oudin a Paris 1640</item>
+                  <item>265 La Hieruſalem du Sr. Tor. Taſſo rendue Francoiſe par Bl. de Vigeneres a Par. 1599</item>
+                  <item>266 Eſſay d'une parfaite Grammair de la Langue Francoiſe par Laur. Chiflet Anv. 1664</item>
+                  <item>267 De la Verite de la Religion Chreſtienne par Ph. de Mornay a Paris 1582</item>
+                  <item>268 Hiſtoire Romaine juſques a Neron par F. N. Coeffeteau 2 Vol. a Rouen 1662</item>
+                  <item>269 Traite de la Juſtice Chreſtienne par J. de l' Eſpine 1587</item>
+                  <item>270 Hiſt des Miracles advenus a l' Interceſſion de la glorieuſe Vierge Marie Brux. 1025</item>
+                  <item>271 La Pratique du Chevalier par R. Menou a Paris 1636</item>
+                  <item>272 La Prince de Guiſe Tragi-Comedie par Scudery 1636</item>
+                  <item>273 La Carithee de M. le Roy, Sr. de Gomberville 1621</item>
+                  <item>274 Hipparque du Religieux Marchand diſpute entre Mediaſtin &amp; Timothee 1645</item>
+                  <item>275 De la Sageſſe par Mr. le Charron Bourdeaus 1601</item>
+                  <item>276 Hiſtoire Celtique ſous les noms d' Amindorix &amp; de Celanire.</item>
+                  <item>277 M. Plauti Comoediae Francois &amp; Latin. 4 Vol. a Paris 1658</item>
+                  <item>278 Hiſtoire du B. Jean de Montmirel, &amp;c. par J. B. de Machaut S. J. a Paris 1641</item>
+                  <item>
+                     <pb n="19" facs="tcp:42926:12"/>279 Les Eſſays de M. Sr. de Montaigne a Paris 1600</item>
+                  <item>280 L' Anatomie Francois en forme d' Abrege par T. Gelee Medic. de Dieppe Par. 1642</item>
+                  <item>281 Recueil General des queſtions traitees es Conferences du Bureau d' Addreſſe; par le plus beaux eſprits 5 Vol. a Paris 1660</item>
+                  <item>282 Nouvelles Experiences ſur la Vipere par M. Charras la meſme 1669</item>
+                  <item>283 Methode d' Elever les Enfans ſelon les Regles de la Medicine par Guerin Par. 1675</item>
+                  <item>284 Eſſay des Merveilles de Nature &amp; des plus Nobles Artifices par R. Francois 12 Edi<g ref="char:EOLhyphen"/>tion la meſme 1638</item>
+                  <item>285 Examen du Livre des Recreations Mathematiques par Cl. Mydorge la meſme 1638</item>
+                  <item>286 Principes &amp; la Doctrine de Rome par l'Eveſque de Lincoln 1679</item>
+                  <item>287 La Phyſique demonſtrative en 3 Livres par H. de Rochas la meſme 1643</item>
+                  <item>288 Maniere univerſelle de Mr. Deſargues pour pratiquer la Perſpective par petit pied, &amp;c. par A. Beſſe avec figures la meſme 1648</item>
+                  <item>289 La parfait Hermite deſcrit en la perſonne de Fr. Heymerie Roudilh de St. Vincens <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>290 Les Secrets du Seign. Alexis Piemontois a Anvers 1<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </item>
+                  <item>291 Avertiſſement aux Fideles ſur les Diſputes des Miſſionaires par Ch. Drelincourt a Geneve 1667</item>
+                  <item>292 Abrege de 2 Sermons qui ont precede l Ordination d'un Paſteur par J. Deſpagne a Londres 1650</item>
+                  <item>293 Les Elemens Geometriques d' Euclide augmentez de pluſieurs figures, &amp;c. par P. Mar<g ref="char:EOLhyphen"/>dele a Paris 1632</item>
+                  <item>294 L' uſage des Ephemerides, avec la Methode de dreſſer toutes ſortes de figures coele<g ref="char:EOLhyphen"/>ſtes, &amp;c. la meſme 1624</item>
+                  <item>295 Les Oeuvres de Theophile, contenant l' Immortalite de l'ame, &amp;c. a Rouen 1661</item>
+                  <item>296 Hiſtoire de Henry le quatrieſme par P. Mattheieu</item>
+                  <item>297 Les Oeuvres de Mr. J. Belot cont. la Chiromance, Phyſiognomie, &amp;c. Rouen 1669</item>
+                  <item>298 La Pretieuſe, ou le Myſtere de la Ruelle 1. partie a Paris 1656</item>
+                  <item>299 Hiſtoire de la Reunion du Royaume de Portugal a la Couronne de Caſtill. 2 Vol. 8vo. la meſme</item>
+                  <item>300 Pharmacopee de Bauderon, reveue, corigee &amp; augmentee, &amp;c. la meſme 1639</item>
+                  <item>301 La Philoſophie Chreſtienne, ou perſuaſions puiſſants au Meſpris de la Vie la meſme 1637</item>
+                  <item>302 La Fidele Conducteur pour le Voyage d' Angleterre</item>
+                  <item>303 Le Voyageur d' Europe par Mr. a Jovoin 1672</item>
+                  <item>304 Le Prince de Mr. de Balzac 1632</item>
+                  <item>305 Accompliſſement des Propheties par Pierre de Moulin a Geneve 1660</item>
+                  <item>306 Hiſtoire Generale du Serrail, &amp; de la cour du Grand Seigneur Rouen 1678</item>
+                  <item>307 Les Oeuvres des Plutarch. Tranſlatees par J. Amyot 4 Vol. a Paris 1578</item>
+                  <item>308 Grammaire Italienne miſe &amp; expliquee en Francoiſe par Oudin la meſme 1623</item>
+                  <item>309 L' Hiſtoire Eccleſiaſtique d' Euſebe de Ceſaree a Anvers 1523</item>
+                  <item>310 Commentaires de l' Eſtat de la Religion &amp; Republique ſous les Roys Henry &amp; Francois 2. &amp; Charles le 9. 1565</item>
+                  <item>311 Algebre de Viete d'une Methode nouvelle, claire &amp; facile a Paris 1636</item>
+                  <item>312 Le Trompeur puny Tragi-Comedie par Scudery.</item>
+                  <item>313 Traite de la Trigonometrie pour reſoudre touts Triangles rectilignes la meſme 1636</item>
+                  <item>314 Factum pour les Religieuſes de Saincte Catherine les Provins</item>
+                  <item>
+                     <pb n="20" facs="tcp:42926:13"/>315 Dialogues fort Recreatifs es Eſpagnol, Italien, Aleman &amp; Francois par Oudin 1650</item>
+                  <item>316 Ariſtippe ou de la Cour par Balzac a Paris 1660</item>
+                  <item>317 Devis Familiers entre un Penitent &amp; ſon Pere ſpirituel par R. P. Balinchem S.J. 1627</item>
+                  <item>318 Prieres &amp; Conſolations priſes des pluſieurs paſſages de l' Eſcriture 1602</item>
+                  <item>319 Les Conſolations de la Philoſophie &amp; de la Theologie par R. Cereziers S. J. 1640</item>
+                  <item>320 Lettres choiſies de Mr. de Balzac.</item>
+                  <item>321 Le Miroir des Alchimiſtes ou l'on voir les erreurs qui ſe font en le recherche de la Pierre Philoſophale</item>
+                  <item>322 Alphabet de l' Imperfection &amp; malice des Femmes.</item>
+                  <item>323 Les Entretiens de feu Mr. de Balzac 1657</item>
+                  <item>324 De l'uſage des Paſſions par R. P. Senault</item>
+                  <item>325 Les Oeuvres de P. Virgile Maron Lat. Francoiſe.</item>
+                  <item>326 Memoires ou Oeconomie Royal d' Eſtat de Henry le grand in 6 Vol. par le Duc de de Sully a Paris 1663</item>
+                  <item>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 1684</item>
+                  <item>328 Memoires de la V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Henriette-Sylvie de Moliere in ſix parties Liege 1676</item>
+                  <item>329 Introduction a la Vie Devote du Franc. de Sales Eveſque de Geneve a Paris 1636</item>
+                  <item>330 Le Journal Amoreux a Paris 1670</item>
+                  <item>331 Traite de la Guerre ou Politique Militaire par M. P.</item>
+                  <item>332 Les ſept Entretiens ſatyriques D'Aloiſia a Cologn 1681</item>
+                  <item>333 Abrege des Meditations ſur la Vie de Jeſus Chriſt pour tous les Jours de l' Annee par P. Hayneufe S. J. en 4 Vol. a Paris 1670</item>
+                  <item>334 La Pratique de Piete a Rouen 1668</item>
+                  <item>335 Traite de la Chymie par N. le Febure 2 Vol. a Leyde 1669</item>
+                  <item>336 Reſponce au Livre de Mr. l' Eveſque de Condom a Rouen 1673</item>
+                  <item>337 Relation de la Campagne 1665. en Allemagne a Cologn 1676</item>
+                  <item>338 Rome Proteſtant, ou Temoignages de pluſieurs Catholiques Romains en faveur des Proteſtants a Londres 1678</item>
+                  <item>339 Dialogues de J. Lovis Vives Latin-Francoiſe</item>
+                  <item>340 Recueil des Enigmes de ce temps a Paris 1658</item>
+                  <item>341 Grammaire &amp; Syntaxe Francoiſe par B. Maupas</item>
+                  <item>342 Romant Comique par Mr. Scarron a Lyon 1663</item>
+                  <item>343 Duels de Compliments Francois &amp; Italiens</item>
+                  <item>344 Les Principes de la Philoſophie par R. des Cartes a Rouen 1679</item>
+                  <item>345 Les Oeuvres Poetiques de S. Seigneur du Bartas</item>
+                  <item>346 Hiſtoire des plus Illuſtres &amp; Scavans Hommes de leurs Siccles par A. Thevet in 8 Vol. a Paris 1671</item>
+                  <item>347 Hiſtoire de Baviere par le Sr. Blanc 4 Vol. la meſme 1680</item>
+                  <item>348 L' Academie des Sciences &amp; des Arts par P. Leon 3 Vol. la meſme 1680</item>
+                  <item>349 De l' Art de Parler la meſme 1676</item>
+                  <item>350 Les Memoires de Henry de Lorrain Duc de Guiſe 1681</item>
+                  <item>351 De l' Education des Enfans a Amſterdam 1679</item>
+                  <item>352 Les Epiſtres de Seneque nouvelle Traduction 2 Vol. a Paris 1681</item>
+                  <item>353 La Morale de Tacite de la Flatterie par Sr. Amelot 1616</item>
+                  <item>354 Alcinoee, Marguerite de France &amp; Blance de Bourbon Trag-Com. a Paris 1641</item>
+                  <item>354 La Phyſiognomie Naturelle &amp; la Chiromance avec les figures a Rouen 1666</item>
+                  <item>355 Diſcours de l' Eſtat de la Paix &amp; de la Guerre de N. Macchiavel avec le Prince 2 Vol. a Paris 1664</item>
+                  <item>
+                     <pb n="21" facs="tcp:42926:13"/>356 Diſcours de l' Eſtat de la Paix &amp; de la Guerre de N. Machiavel avec le Prince 2 Vol a Paris 1664</item>
+                  <item>357 Remarques Nouvelles ſur la Langue Francoiſe la meſme 1665</item>
+                  <item>358 Recherches &amp; Obſervations Naturelles de M. Boccone avec les fig. a Amſt. 1674</item>
+                  <item>359 Le Voyage de France a Paris 1695</item>
+                  <item>360 Le Guide Univerſelle de tous les Pays-Bas la meſme 1665</item>
+                  <item>361 Le Journal du Siege de Phillipsburg 1676</item>
+                  <item>362 Les Provinciales ou les Lettres eſcrites par Louis de Montalte, &amp;c. a Col. 1657</item>
+                  <item>363 Eſſais de Morale 3 Vol. a la Haye 1683</item>
+                  <item>364 Diſcours ſur la Creche de noſtre Seigneur 1677</item>
+                  <item>365 Pratique de la Geometrie ſur le Papier &amp; ſur le Terrain a Paris 1682</item>
+                  <item>366 Les Characteurs des Paſſions par Sr de la Chambre 2 Vol. a Amſt. 1658</item>
+                  <item>367 Nouvelle Relation de l'Interieur du Serrail par J. B. Tavernier a Col. 1675</item>
+                  <item>368 Les Acquiſitions de la France par la Paix avec les Cartes par Du Val.</item>
+                  <item>369 D' Aminte de Taſſe Italien &amp; Francoiſe 1679</item>
+                  <item>370 Les Poeſies Facetieuſes</item>
+                  <item>371 Hiſtoire de Prince Charles &amp; de l' Imperatrice Dovaire 1676</item>
+                  <item>372 Recueil des Hiſtoires Galantes.</item>
+                  <item>373 Remarques ſur l' Eſtat des Provinces Unies par le Chevalier Temple</item>
+                  <item>374 La Voix de Dieu par R. Baxter.</item>
+                  <item>375 Les Guerres d' Alexandre par Arrian avec ſa Vie par Mr. d' Ablancourt Par. 1664</item>
+                  <item>376 Arriane ou les Avantures de Melinte 2 Vol. la meſme 1669</item>
+                  <item>377 Athenes Ancienne &amp; Nouvelle &amp; l' Eſtat de l' Empire des Turcs par Guilletiere la meſme 1675</item>
+                  <item>378 Apothegmes des Anciens tiree de Plutarque, de Diogene Laerce, &amp;c. par Monſieur Ablancourt la meſme 1664</item>
+                  <item>379 Les Confeſſions de St. Auguſtin traduit par Monſr. Arnauld a Bruxelles 1675</item>
+                  <item>380 Les Anecdotes de Florence ou l' Hiſtoire de la Maiſon de Medicis par Varillas a la Haye 1685</item>
+                  <item>381 Apologie pour les Catholiques contre les Fauſſetes du Livre la Politique du Clerge de France par Arnaud 2 Vol. 1681</item>
+                  <item>382 Abrege de l' Hiſtoire Sainte par le Sr. Verdier 4 Vol. a Paris 1664</item>
+                  <item>383 L' Amant Oy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>if 3 Vol la meſme 1671</item>
+                  <item>384 L' Avocat des Pauvres par Jean Bapt. Thiers la meſme 1676</item>
+                  <item>385 L' Art de la Guerre &amp; la Maniere dont on fait a preſent la meſme 1677</item>
+                  <item>386 Ariſtandre ou Hiſtoire Interrompue la meſme 1664</item>
+                  <item>387 L' Amant de Bonne Foy la meſme 1672</item>
+                  <item>388 La Veritable art de Blaiſon ou l'Uſage des Armoires avec fig. 2 Vol. la meſme 1673</item>
+                  <item>389 Ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ege de l' Hiſtoire de la Maiſon Royale de Savoye par Thomas le Blanc 2 Vol. a Lyon 1681</item>
+                  <item>390 L' Art de Fortifier, de Defendre &amp; d' Attaquer des places avec figures par Dechales a Paris 1684</item>
+                  <item>391 L' Aumoſne Chreſtienne ou la tradition de l' Egliſe touchant la Charite envers les Pauvres 2 Vol. a Lyon 1674</item>
+                  <item>392 Les Aphoriſmes d' Hippocrate avec les Annotations a Paris 1685</item>
+                  <item>393 Athenes Ancienne &amp; Nouvelle &amp; l' Eſtat de l' Empire des Turcs contenant la Vie du Sulthan Mahomet 4me avec figures par Guilltiere la meſme 1676</item>
+                  <item>
+                     <pb n="22" facs="tcp:42926:14"/>394 Les Antiquites des Villes, Chaſteaux &amp; places plus remarquables en France par An<g ref="char:EOLhyphen"/>dre du Cheſne 2 Vol. a Paris 1668</item>
+                  <item>395 Les Arts de l' Homme d' Epee ou la Dictionaire du Gentilhomme avec figures a la Haye 1680</item>
+                  <item>396 Abrege Methodique des principes Heraldiques par Meneſtrier a Lyon 1673</item>
+                  <item>397 La Veritable Art du Blaſon &amp; l' Origine des Armoires par Meneſtrier la meſme 1672</item>
+                  <item>398 — ou l' Uſage des Armoires avec fig. 2 Vol. a Paris 1673</item>
+                  <item>399 — &amp; la Pratique des Armoires avec figures a Lyon 1671</item>
+                  <item>400 L' Art de Jetter des Bombes avec figures par Blondel a la Haye 1685</item>
+                  <item>401 Nouvelle Maniere de Fortifier des places par Monſieur Blondel avec figures 1684</item>
+                  <item>402 L' Art de bien diſcourir par Mr. Hauteville a Paris 1666</item>
+                  <item>403 La Logique ou l' Art de Penſer par Meſſieurs du Port Royal a Amſterdam 1678</item>
+                  <item>404 Amelonde Hiſtoire de noſtre temps a Paris 1669</item>
+                  <item>405 Le Manuel &amp; Meditations de St. Auguſtin la meſme 1662</item>
+                  <item>406 Apologie de Monſieur Balzac &amp; Barbon du dit Sieur Balzac la meſme 1662</item>
+                  <item>407 Epiſtres choiſies de St. Auguſtin traduits par Monſr. Giry la meſme 1656</item>
+                  <item>408 St Auguſtin de la Veritable Religion traduit par Monſr. Arnaud la meſme 1656</item>
+                  <item>409 Abrege des Antiquitez de la Ville de Paris la meſme 1664</item>
+                  <item>410 Abrege des Annales de la Ville de Paris la meſme 1664</item>
+                  <item>411 L' Apocalypſe de Meliton 1668</item>
+                  <item>412 Les Soliloques le manuel &amp; les Meditations de St. Auguſtin a Bruxelles 1676</item>
+                  <item>413 Annibal &amp; Scipion ou les Grands Capitains avec les plains de Batailles Haye 1675</item>
+                  <item>414 L' Amant Artificieux ou la Rival de Soy-meſme a Amſterdam 1683</item>
+                  <item>415 Les Artifices des Heretiques a Paris 1681</item>
+                  <item>416 L' Almanack perpetual d' Amour a l'Iſle d' Adonis 1681</item>
+                  <item>417 Abrege des Controverſies par Charles Drelincourt 1674</item>
+                  <item>418 St. Auguſtine de la Correction &amp; la Grace traduit par Mr. Arnaud a Paris 1661</item>
+                  <item>419 Abrege de l' Hiſtoire de Normandy a Rouen 1665</item>
+                  <item>420 Abrege de la Vie &amp; Doctrine de Jeſus Chriſt a Paris 1656</item>
+                  <item>421 St. Auguſtine des Moeurs de l' Egliſe Catholique traduit par Arnaud la meſme 1637</item>
+                  <item>422 Le Premier Alcibiade de Platon par Mr. de Feure la meſme 1666</item>
+                  <item>423 L' Amoreux Africane a Col. 1675</item>
+                  <item>424 Les Entretiens de Feu Monſr. de Balzac a Amſt. 1663</item>
+                  <item>425 Converſations Chreſtiennes par Monſr. Malbranche 1686</item>
+                  <item>426 Les Oeuvres de Feu Monſr. de Bouillon a Paris 1663</item>
+                  <item>427 Oeuvres diverſes de Monſr. Boileau a Amſterdam 1683</item>
+                  <item>428 La Belle Magic, ou Science de l' Eſprit a Lyon 1669</item>
+                  <item>429 La Bibliotheque Francoiſe de Mr. Sorel a Paris 1665</item>
+                  <item>430 Oeuvres diverſes de Sieur Balzac la meſme 1664</item>
+                  <item>431 Bonnes &amp; ſaintes Penſees pour tous les Jours du Mois 1676</item>
+                  <item>432 L' Art de Parler par Meſſieurs du Port Royal la meſme 1679</item>
+                  <item>433 Les Ambaſſadours de Mareſchal Baſſompierre 2 Vol. a Col. 1668</item>
+                  <item>434 Memoires de Monſieur de Brantome contenans les Vies des Hommes Illuſtres de ſon temps 4 Vol a Leyde 1666</item>
+                  <item>435 Bouclier d' Eſtat &amp; de Juſtice a Bruxelle 1669</item>
+                  <item>435 Le Catechiſme du Concile de Trente traduit par Meſſrs. du Port Royal a Paris 1673</item>
+                  <item>437 La Saincte Chronologie de la Vie de Jeſus 1661</item>
+                  <item>438 La Campagne du Roy en l'annee 1677 a Paris 1678</item>
+                  <item>
+                     <pb n="23" facs="tcp:42926:14"/>439 Recueil des Queſtions traitees dans les Conferences du Bureau d' Addreſſee 5 Vol. a Paris 1666</item>
+                  <item>440 Critique de la Critique de la Recherche de la Verite la meſme 1675</item>
+                  <item>441 Conjuration des Eſpagnols contre la Republique de Veniſe en l'annee 1681. la meſme 1674</item>
+                  <item>442 Ceremonies Funebres de touts les Nations par le Sieur Muret la meſme 1677</item>
+                  <item>443 La Creance de l' Egliſe Grecque touchant la Tranſubſtantiation defendue contre Monſr. Claud par Monſr. Arnaud la meſme 1672</item>
+                  <item>444 Concluſion des principes de la Sapience a Montbeliard 1668</item>
+                  <item>445 Critique de l' Hiſtoire de Calviniſme de Monſr. Maimbourg 1668</item>
+                  <item>446 Suites des Conſeils de la Sageſſe ou Recueil des Maximes de Solomon 1684</item>
+                  <item>447 Le Catechiſme des Jeſuites 1677</item>
+                  <item>448 Les Characteres des Paſſions par Mr. le Chambre 4 Vol. a Amſt. 1658</item>
+                  <item>449 Cabinet Satyrique 2 Vol 1666</item>
+                  <item>450 Caſimir Roy de Pologne a Paris 1680</item>
+                  <item>451 Dialogues Politiques des Princes &amp; Republiques Italiennes 2 Vol. a Paris 1621</item>
+                  <item>452 La Defenſe de la Reformation contre le Prejugez de Mr. Arnaud par Claud 2 Vol.</item>
+                  <item>453 Conferences Eccleſiaſtiques du Dioceſe de Lucon la meſme 1680</item>
+                  <item>454 Le Cercle ou Converſation Galantes la meſme 1673</item>
+                  <item>455 La Campagne du Roy en l'annee 1677.</item>
+                  <item>456 Le Charactere de l' Honeſt Homme par Monſr. Gerard la meſme 1682</item>
+                  <item>457 Oeuvres Galantes de Monſr. Cotin 2 Vol. la meſme 1665</item>
+                  <item>458 Les Vies des Illuſtres Grecs &amp; Romains par Corn. Nepos la meſme 1663</item>
+                  <item>459 Le Chien de Boulogne la meſme 1668</item>
+                  <item>460 Abrege de la Nouvelle Methode pour apprendre la Langue Grecque par Meſſieurs du Port Royal la meſme 1682</item>
+                  <item>461 Traite du Chemin de perfection eſcrit par Ste. Tereſe &amp; traduit par Monſr. Ar<g ref="char:EOLhyphen"/>naud la meſme 1660</item>
+                  <item>462 Le Comte de Dunois, Nouvelle la meſme 1671</item>
+                  <item>463 Le Courrier Devaliſe la meſme 1646</item>
+                  <item>464 De la Connoiſſance des Bons Liuvres ou Examen de pluſieurs Autheurs Par. 1671</item>
+                  <item>465 Les Contes du Sieur d' Ouville 2 Vol. a Rouen 1660</item>
+                  <item>466 La Cuiſinier Francoiſe a Rouen 1660</item>
+                  <item>467 Conſideration ſur la nature de l' Egliſe &amp; ſur quelques-unes de ſes Proprietez a Rouen 1673</item>
+                  <item>468 Teſtament ou Conſeils Fidels d'un bon Pere a ſes Enfans a Rouen 1658</item>
+                  <item>469 Cours de Chymie de P. Thibaut a Leyde 1672</item>
+                  <item>470 Contes &amp; Nouvelles en Vers de Monſr. la Fontaine a Leyde 1669</item>
+                  <item>471 L' Art de Connoiſtre des Hommes par la Chambre a Amſt. 1660</item>
+                  <item>472 La Rhetorique de Ciceron par Monſr. du Ryer a Paris 1652</item>
+                  <item>473 Philippiques de Ciceron par Monſr. du Ryer la meſme 1646</item>
+                  <item>474 Caſimir Roy de Pologne la meſme 1680</item>
+                  <item>475 Nouveau Dictionaire des Rimes la meſme 1667</item>
+                  <item>476 Diſcourſe ſur l' Hiſtoire Univerſelle par l' Eveque de Condom la meſme 1681</item>
+                  <item>477 Les Principes de la Philoſophie par Monſr. Deſcartes a Rouen 1679</item>
+                  <item>478 La Geneſe traduit en Francoiſe avec l' Expli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ation des SS. Peres &amp; des Auteurs Ec<g ref="char:EOLhyphen"/>cleſiaſtiques par Meſſieurs du Port Royal a Paris 1682</item>
+                  <item>479 L' Exode &amp; le Levitique du Meſme la meſme 1683</item>
+                  <item>
+                     <pb n="24" facs="tcp:42926:15"/>480 Les Nombres &amp; Deuteronomie du meſme</item>
+                  <item>481 Les deux premiers Livres des Roys du meſme a Paris 1679</item>
+                  <item>482 Les Proverbs de Solomon du meſme la meſme 1678</item>
+                  <item>483 L' Eccleſiaſte de Solomon du meſme la meſme 1679</item>
+                  <item>484 Iſaie du meſme la meſme 1679</item>
+                  <item>485 Les Douze Petit Prophetes du meſme la meſme 1681</item>
+                  <item>486 Deſcript. Geographiq. &amp; Hiſt. des Coſtes de l'Ameriq. Septentrionale la meſme 1672</item>
+                  <item>487 Diſcours ſur les Penſees de Monſr. Paſchal la meſme 1672</item>
+                  <item>488 Les Delices de l' Hollande par Parival avec figures 1669</item>
+                  <item>489 Chronologie des Pape, des Conciles &amp; des Hereſies qu' ils ont condamnes des Peres &amp; Auteurs Eccleſiaſtiques par Deviat a Paris 1677</item>
+                  <item>490 La Diſcipline des Egliſes Reformees de France 1675</item>
+                  <item>491 Diſcourſe Phiſique de la Parole par Cordenoy a Paris 1677</item>
+                  <item>492 Le Diſcernement du Corps &amp; de l' Ame par Cordenoy la meſme 1670</item>
+                  <item>493 Les Divertiſſements d'Amour &amp; autres Poeſies Burleſques la meſme 1667</item>
+                  <item>494 L'Eſcole des Princes ou Alexandre le Grand a Amſterdam 1671</item>
+                  <item>495 Les Dames Illuſtres a Paris 1665</item>
+                  <item>496 Diſcours ſur l' Academy Francoiſe eſtablie par la Correction du Langue</item>
+                  <item>497 Les Delices de la France avec figures a Amſt. 1670</item>
+                  <item>498 Diſſertations ſur l'Autorite de la Regale a Col. 1682</item>
+                  <item>499 Diſcours de Mr. Vigier contre la Perpetuite de la Foy de Mr. Arnaud</item>
+                  <item>500 La Defence de Coeur contre les Attaques d'Amour a Amſt. 1681</item>
+                  <item>501 Diſcours ſur la Conjoncture preſente des Affaires d'Allemagne a Paris 1658</item>
+                  <item>502 La Doctrine de Salut, ou les Paroles Sacrees de Jeſus Chriſt tire de Nouveau ſe<g ref="char:EOLhyphen"/>ſtament avec Reflections propres 1677</item>
+                  <item>503 Eſſays Phyſique par Monſr. Mariotte a Paris 1679</item>
+                  <item>504 De l'Eſprit Diſcours de Mr. le Chevaliere de Mere a Madam *** la meſme 1677</item>
+                  <item>505 Epiſtres Choiſies de St. Gregoire le Grand la meſme 1677</item>
+                  <item>506 De l'Education des Enfans &amp; particulierement de celle des Princes a Amſt. 1679</item>
+                  <item>507 Eſſaies de Morale 4 Vol. 12. a Paris 1672</item>
+                  <item>508 Extraits de touts les beaux endroits des Ouvrages des plus celebres Autheurs de ce temps 3 Vol. par Corbinelli a Amſterdam 1681</item>
+                  <item>509 Examen du Methode Pacifique de Mr. Maimbourg a Cologne 1682</item>
+                  <item>510 Entretiens de Devotions ſur le St. Sacrament d'Autel a Paris 1677</item>
+                  <item>511 L'Etat de la Republique de Naples ſous le Gouvernement de Duc de Guiſe</item>
+                  <item>512 De l' Education des Dames pour la Conduite de l'Eſprit dans les Sciences &amp; dans les Moeurs a Paris 1679</item>
+                  <item>513 L'Eſtat de la Cour des Rois d'Europe 3 Vol. la meſme 1670</item>
+                  <item>514 Exerciſe ſpirituel de l'Ame fidelle 1676</item>
+                  <item>515 Eſſaies de Michel de Montalgne 3 Vol. a Lyon 1669</item>
+                  <item>516 L'Eſcole Parfait des Officiers de la Bouche a Paris 1676</item>
+                  <item>517 Eſſay Logique contenant les Principes des Sciences, &amp;c. la meſme 1678</item>
+                  <item>518 Emblemes Sacrez tirez de l'Eſcriture St. &amp; des Peres 2 Vol. avec figures</item>
+                  <item>519 Traduction des Epiſtres d'Ovide en Vers Francoiſe a Rouen 1676</item>
+                  <item>520 Entretiens d'Eudoxe &amp; Euchariſtie ſur les Hiſtoires d' Arianiſme &amp; Iconoclaſtes de Mr. Maimbourg a Cologne 1683</item>
+                  <item>521 L'Eſtat de France 2 Vol. a Paris 1665</item>
+                  <item>522 Entretiens des Cours ou Converſations Academiques la meſme 1656</item>
+                  <item>
+                     <pb n="25" facs="tcp:42926:15"/>523 Les Epiſtres Meſlees de Mr. Joſeph Hall Exeque d'Exceter 1634</item>
+                  <item>524 De l'Excellence des Hommes contre l'Egalite des Sexes</item>
+                  <item>525 Hiſtoire de la Vie de Reine de Suede</item>
+                  <item>526 Les Entretiens du Luxemburg ſur l'Utilite de la Promenade a Paris 1669</item>
+                  <item>527 Entretiens ſur les Tragedies de ce temps la meſme 1675</item>
+                  <item>528 L'Eſtat d'Allemagne de Monzambane a Amſt. 1669</item>
+                  <item>529 L'Eveſque de Cour oppoſe a l'Eveſque Apoſtolique a Col. 1675</item>
+                  <item>530 La Fauſſe Clelie Hiſtoire Francoiſe Gallante &amp; Comique a Amſt. 1672</item>
+                  <item>531 Le <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acetieux Reveille Matin a Rouen 1675</item>
+                  <item>532 Le Feſtin de Xenophon de la Verſion de Mr. le Feure a Saumur 1696</item>
+                  <item>533 Divers Hiſtoires Morales &amp; Divertiſſantes par d'Aranda a Leyde 1671</item>
+                  <item>534 La France Demaſque dans ſa Conduite &amp; Maximes a la Haye 1671</item>
+                  <item>535 Prieres &amp; Meditations Chreſtiennes par le Faucheur</item>
+                  <item>536 La France Politique 1672</item>
+                  <item>537 Les Galanteries Grenadines a Weſel 1673</item>
+                  <item>538 Les Femmes Illuſtres par Mr. Scudery 2 Vol. a Paris 1662</item>
+                  <item>539 Les Tableaux de la Penitence par Mr. Godeau avec figures.</item>
+                  <item>540 Hiſtoire Comique de Francion 2 Vol. avec figures.</item>
+                  <item>541 Abrege de la Philoſophie de Gaſſendi 6 Vol. a Lyon 1678</item>
+                  <item>542 Inſtruction &amp; Prieres Chreſtiennes pour tout ſortes de perſonnes par Monſr. Godean a Paris 1649</item>
+                  <item>543 Paraphraſe des Pſeaumes de David par Monſr. Godeau la meſme 1676</item>
+                  <item>544 —La meſme 1668</item>
+                  <item>545 Les ſix Voyages de Jean Tavernier en Turquie, en Perſe &amp; aux Indes 3 Vol. avec figures a Paris 1679</item>
+                  <item>546 Hiſtoire de Baviere par le Sieur Blanc 2 Vol. la meſme 1680</item>
+                  <item>547 Hiſtoire des Juifs par Monſr. Arnaud 5 Vol. la meſme 1676</item>
+                  <item>548 Hiſtoire des Edits le Pacification &amp; des Moyens qui les Pretendus Reformes ont Employer pour les obtenir la meſme 1682</item>
+                  <item>549 La Gallerie des Femmes Fortes par le Moyne avec figures a Lyon 1667</item>
+                  <item>550 —La meſme a Paris 1663</item>
+                  <item>551 Hiſtoire des Grands Vizirs Mahomet &amp; Achmet Caprogli la meſme 1676</item>
+                  <item>552 La Geographie Francoiſe contenant les Deſcriptions, les Cartes &amp; la Blaſon des Provinces de France par Du Val a Paris</item>
+                  <item>553 La Geographie Univerſelle du Mond par Du-Val la meſme 1676</item>
+                  <item>554 La Geographie Royal Preſentee au Roy Louis 14me par Phil. Labbe 1673</item>
+                  <item>555 La Generation de l'Homme par le Moyen des Ocufs a Rouen 1676</item>
+                  <item>556 Hiſtoire de la Vie du Duc d'Eſpernon 3 Vol a Paris 1673</item>
+                  <item>557 Hiſtoire Genealogique &amp; Chronologique des Dauphins de Viennois avec figures la meſme 1683</item>
+                  <item>558 Hiſtoire de la Republique de Veniſe par Nani 2 Vol. a Col. 1682</item>
+                  <item>559 — de Vieux &amp; Nouvcaux Teſtament avec figures par Royamond Par. 1680</item>
+                  <item>560 —de de la Ste. Ecriture du Viel &amp; du Nouveau Teſtament en form de Ca<g ref="char:EOLhyphen"/>techiſme a Saumur 1673</item>
+                  <item>561 —de la Reunion du Royaume du Portugal a la Couronne de Caſtille 2 Vol. a Paris 1680</item>
+                  <item>562 —de Theodoſe le Grand par L'Abbe Flecher la meſme 1681</item>
+                  <item>
+                     <pb n="26" facs="tcp:42926:16"/>563 Hiſtoire de la Conqueſte d' Eſpagne par les Mores par Michel de Luna 2 Vol. a Paris 1680</item>
+                  <item>564 — de la Guerre Civile d' Allemagne ſous l' Empereur Charles le Quint la meſme 1672</item>
+                  <item>565 — des Miniſtres d'Eſtat 2 Vol. avec figures la meſme 1669</item>
+                  <item>566 — &amp; Concorde des Quatre Evangils par Meſſieurs du Port Royal Par. 1669</item>
+                  <item>567 — du Schiſme d' Angleterre du Sanderus la meſme 1676</item>
+                  <item>568 — des Voyages de Monſieur le Marquis Ville en Candie 1669</item>
+                  <item>569 L'Homme d'Oraiſon ſa Conduite dans les Voyes de Dieu par Jacques Novet 5 Vol. a Paris 1674</item>
+                  <item>570 Les Hiſtoires d'Herodote par du Ryer 2 Vol. la meſme 1660</item>
+                  <item>571 Hiſtoire des Hommes Illuſtres Francoiſe la meſme 1667</item>
+                  <item>572 — de la Guerre des Gots en Italie par Aretin la meſme 1667</item>
+                  <item>573 Harangues des Hiſtoriens Grecs &amp; Latins 2 Vol. a Lyon 1669</item>
+                  <item>574 Homilies Academiques a Paris 1664</item>
+                  <item>575 L'Hiſtoire de la Conſcience par David Buchanan 1638</item>
+                  <item>576 L'Hiſtoire Sainte par Galtruche a Caen 1666</item>
+                  <item>577 Hiſtoire des Contes d' Hollande &amp; Eſtat &amp; Governement des Provincies Unies du Pays Bas a la Haye 1664</item>
+                  <item>578 L'Homme de Qualite ou les Moyens de Vivre en Homme de Bien &amp; en Homme du Monde 1671</item>
+                  <item>579 Hiſtoire du Prince Oſman Fils du Sultan Ibrahim a Paris 1670</item>
+                  <item>580 Les Avantures du Buſcon Hiſtoire Facetieux a Paris 1632</item>
+                  <item>581 Hiſtoire Naturelle &amp; Morale des Iſles Antilles de l' Amerique 2 Vol. avec figures a Lyon 1667</item>
+                  <item>582 Hiſtoire du Card. Richelieu 2 Vol. 1669</item>
+                  <item>583 Les Harangues ou diſcours Academiques de Bapt. Manzini a Rouen</item>
+                  <item>584 Hiſtoire du Papiſme a Amſterdam 1685</item>
+                  <item>585 — du Grand Tamerlan a Utrecht 1672</item>
+                  <item>586 Le Double Cocu Hiſtoire du tems</item>
+                  <item>587 Lettres de Monſr. Arnauld d'Andilly a Paris 1668</item>
+                  <item>588 Inſtruction Morale d'un Pere a ſon fils Qui part pour une long Voyage 1686</item>
+                  <item>589 La Journe Sainte ou Meditations &amp; Prieres par Monſieur Verney</item>
+                  <item>590 La Jardin d' Amour a Iris a Rouen 1668</item>
+                  <item>591 Le Janſeniſte Convaincue de vain Sophiſtiquerie contre Monſr. Arnaud 1683</item>
+                  <item>592 Le Journal Amoreux 2 Vol. a Amſt. 1671</item>
+                  <item>593 Le Jardinier Francoiſe a Rouen 1669</item>
+                  <item>594 Memoires des Intrigues de la Cour de Rome depuis 1669. Juſque 1676.</item>
+                  <item>595 Traitte de la Puiſſance de l'Egliſe par Monſieur Jurieu a Rouen 1677</item>
+                  <item>596 Memoires de la Vie de Madame de Ravezan a Paris 1679</item>
+                  <item>597 Traite de la Devotion par Monſieur Jurieu 1675</item>
+                  <item>598 Hiſtoire des Amours de Lyſandre &amp; Calyſte avec figures a Amſt. 1679</item>
+                  <item>599 Hiſt. de Calviniſme &amp; Papiſme contre Mr. Maimbourg par Jurieu a Amſt. 1682</item>
+                  <item>600 Taitez &amp; Lettres de Mr. Gombaud a Amſt. 1678</item>
+                  <item>601 Les Nouvelles Lumieres Politiques pour le Governement de l'Egliſe</item>
+                  <item>602 Les Provinciales ou les Lettres Ecrites par Montalt a Cologne 1655</item>
+                  <item>603 Memoires touchant les Ambaſſadeurs &amp; Miniſtres publics par Mr. de Wicquefort 2 Vol. 1679</item>
+                  <item>
+                     <pb n="27" facs="tcp:42926:16"/>604 Hiſtoire du Miniſtere du Card. Mazarin 2 Vol. a la Haye 1681</item>
+                  <item>605 Memoires de Monfreur de Lyonne a Roy 1668</item>
+                  <item>606 Les Lettres Sinceres d'un Gentilhomme Francoiſe a Cologne 1681</item>
+                  <item>607 La Logique des Amans a Paris 1669</item>
+                  <item>608 Preſervatif contre le Changement de Religion par Jurieu</item>
+                  <item>609 Moyens Surs &amp; Honneſtes pour la Converſion de tout ſort des Heretiques</item>
+                  <item>610 Recueil des Lettres Eſcrites a Mr. la Comte de la Suze 2 Vol. a Paris 1667</item>
+                  <item>611 Lacedemonie Ancienne &amp; Nouvelle ou l'on Voit les Moeurs, &amp; les Coutumes des Grecs Moderns des Mahometanes &amp; Juifs 2 Vol. la meſme 1676</item>
+                  <item>612 La Logique des Amans ou Amour Logicien la meſme 1668</item>
+                  <item>613 Lettre a un Amy ou l'on rend compte du Hiſt. Critiq. du Vieux Teſtamt. Amſt. 1676</item>
+                  <item>614 Lettres Ecrites ſur une Diſſertation d'un Voyage par Mr. Spon a Paris 1679</item>
+                  <item>615 Lettres de Mr. Bongars Ambaſſadeur pour le Roy Henry 4me</item>
+                  <item>616 Abrege de l'Hiſtoire de France de Mr. Mezeray 6 Vol a Amſt. 1673</item>
+                  <item>617 Maximes d'Amour a Paris 1668</item>
+                  <item>618 Maximes Generale du Governement la meſme 1668</item>
+                  <item>619 L'Art de Guerir les Maladies Veneriennes la meſme 1683</item>
+                  <item>620 Memoires de Monſr. le Duc le Sully 8 Vol. la meſme 1663</item>
+                  <item>621 — d' Eſtat ſous les Roys Charles 1me Henry 3me &amp; 4me &amp; Louys 13me par Monſr. de Villeroy 4 Vol. la meſme 1678</item>
+                  <item>622 Methode pour Apprend. facilemt. la Geograph. un Abrege de la Sphere 2 Vol. 1678</item>
+                  <item>623 Acts &amp; Memoires des Negociations de la Paix de Nimegue 4 Vol. 1680</item>
+                  <item>625 Memoires d'Holland la meſme 1678</item>
+                  <item>626 Les Memoires de Philip de Comines par Godefroy 2 Vol. a la Haye 1652</item>
+                  <item>627 La Montre par de Bonne Cors a Paris 1661</item>
+                  <item>628 La Morale de Tacite de la Flatterie par Amelote la Houſſaie la meſme 1676</item>
+                  <item>629 Mirroir Temporal de l'Eternite a Francfort 1666</item>
+                  <item>630 Memoires de Jean Sire de Joinville a Paris 1666</item>
+                  <item>631 — d'Eſtat ſous le Regne des Roys Henry 3me &amp; 4me 2 Vol. la meſme 1664</item>
+                  <item>632 Les Moeurs des Iſraelites par Mr. Fleury a la Haye 1683</item>
+                  <item>633 Memoires de M. L. D. M. 1675</item>
+                  <item>634 — des troubles en France ſous les Regnes des Roys Charles 9me, Henry 3me. &amp; 4me. par Villeganblaine la meſme 1667</item>
+                  <item>635 Memoires de Monſr. de Prodez a Amſterdam 1677</item>
+                  <item>636 Ambaſſades de Mareſchal Baſſompierre 2 Vol. a Col. 1668</item>
+                  <item>637 Memoires concernant les Derniers Guerres d'Italie 2 Vol. a Paris 1669</item>
+                  <item>638 — de ce qu' eſt paſſe en Suede &amp; aux Provinces Voifines tires des Depeches de Monſr. Charrut 3 Vol. 1677</item>
+                  <item>639 — de l' Origine des Guerres qui Travaillont l' Europe depuis cinquante ans 2 Vol. a Col. 1678</item>
+                  <item>640 Hiſt. de la Decadence de l'Empire Grecq. apres Charlemagne par Maimbourg 1681</item>
+                  <item>641 —de l'Arianiſme avec l'Origine des Sociniens 3 Vol. 1682</item>
+                  <item>642 —du Schiſme d' Occident 2 Vol. par Maimbourg</item>
+                  <item>643 —de Lutheraniſme par Maimbourg 1681</item>
+                  <item>644 —de Calviniſme par Maimbourg 1682</item>
+                  <item>645 —des Croiſades pour la Deliverance du Terre Ste par Maimbourg 4 Vol.</item>
+                  <item>646 — du Pontificat de S. Gregoire le Grand par Maimbourg 1686</item>
+                  <item>647 —du Schiſme des Grecs par Maimbourg 2 Vol. 1682</item>
+                  <item>
+                     <pb n="28" facs="tcp:42926:17"/>648 Hiſt. du Wiclefianiſme on la Doct. de Wiclef Jeane Hus &amp; Jer. de Prague-Lyon 1682</item>
+                  <item>649 — de l' Hereſie des Iconoclaſtes 3 Vol. 1682</item>
+                  <item>650 Memoires de Monſr le Chancelier de l' Hoſpital 1672</item>
+                  <item>651 Recueil de Maximes Veritables &amp; Importantes pour Inſtitution du Roy 1653</item>
+                  <item>652 Le Mercure Hollandoiſe contenant les choſes les plus remarquables de tout le <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Arrivees depuis l' An. 1672. Juſque de l' An. 1685. 12 Vol. avec figures</item>
+                  <item>653 Les Memoires de Feu Monſieur le Duc de Guiſe a Col. 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8</item>
+                  <item>654 Mercure Galante contenant tout ce qu' eſt paſſe de curieux dans l' An. 1678. avec fi<g ref="char:EOLhyphen"/>gures 12. Vol.</item>
+                  <item>655 L' Origine des <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ardinaux du Ste. Siege 167<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>656 Les Oracles Divertiſſans a Amſterdam 1677</item>
+                  <item>657 Le Miniſtre d Eſtat par Silhon a Paris 1639</item>
+                  <item>658 Memoires d' Eſtat ſous Henry 3me. &amp; 4me par Cheverney 3 Vol.</item>
+                  <item>659 Portrait Geographique &amp; Hiſtorique de l Europe 4 Vol. a Paris 1674</item>
+                  <item>660 La Pucelle ou France Delivre Poeme Heroique avec figures la meſme 1657</item>
+                  <item>661 La Maniere de Cultiver les Arbres Fruitieres la meſme 1653</item>
+                  <item>662 Oeuvres de Monſr. Moliere 6 Vol. a Amſterdam 1686</item>
+                  <item>663 Traite de l' Origine des Noms &amp; des Surnoms a Paris 1681</item>
+                  <item>664 Recueil des pieces Galantes la meſme 1676</item>
+                  <item>665 Le Page Diſgrace 2 Vol. la meſme 1667</item>
+                  <item>666 Opuſcules ſur Divers Sujets le Mort de Duc de Longuille, &amp;c. la meſme 1684</item>
+                  <item>667 Des Obligations des Eccleſiaſtiq. ſelon l'Eſcrit S. les Conciles, les Peres, &amp;c. 1676</item>
+                  <item>668 Les Vies des Hommes Illuſtres de Plutarque par l' Abbe Tallemont 9 Vol. 1681</item>
+                  <item>669 La Princeſſe de Mont ferrat Nouvelle a Amſterdam 1676</item>
+                  <item>670 La Priſon ſans Chagrin Hiſtoire Comique a Paris 1669</item>
+                  <item>671 Oeuvres de Du Bartas la meſme 1683</item>
+                  <item>672 Projet de Conference ſur les matieres de Controverſe la meſme 1680</item>
+                  <item>673 Le Pilote de l' Onde Vive ou le Secret de Flux &amp; Reflux de la Mer la meſme 1678</item>
+                  <item>674 Le Nouveau Secretaire contenant diverſes Lettres choiſies &amp; familiers 1668</item>
+                  <item>675 Recherches &amp; Obſervations Naturelles de Mr. Boccone avec figures 1672</item>
+                  <item>676 La Veritable Ortographe Francoiſe contre Mr. L' Eſclaſche 1669</item>
+                  <item>677 Oeuvres Satyriques de Corn Bleſſebois a Leyde 1676</item>
+                  <item>678 Pſeaumes de David a Charenton 1675</item>
+                  <item>679 — La meſme 24.</item>
+                  <item>680 Penſees de Mr. Paſcal ſur la Religion &amp; ſur quelques autres ſujets 1679</item>
+                  <item>681 Il Paſtor Fido Fr. &amp; Ital. a Cologn 1677</item>
+                  <item>682 Le parfait Capitain ou Abrege des Commentaires de Ceſar 1648</item>
+                  <item>683 Les Derniers Effortes de l' Innocence Affligee a Amſterdam 1682</item>
+                  <item>684 La Politique de la Clerge de France la meſme 1682</item>
+                  <item>685 La Perfection du Chriſtianiſme Tiree de la Morale de Jeſus Chriſt par Rapin.</item>
+                  <item>686 Recu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il de Diverſes pieces ſervant a l' Hiſtoire de Henry 3me.</item>
+                  <item>687 Les O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uvres de Monſieur de Poiſſon a la Haye 1680</item>
+                  <item>688 La Prince Chreſtienne &amp; Politique par Saavedra avec figures.</item>
+                  <item>689 Proces de Guillaume Vicomte de Stafford a Cologn 1681</item>
+                  <item>690 La Princeſs d' Angleterre ou la Ducheſſe Reyne 1677</item>
+                  <item>691 Recueil des Actions &amp; Paroles Memorables de Philip 2de 1671</item>
+                  <item>692 Les Pſeaumes traduit par Monſr. Conrart</item>
+                  <item>693 — La meſme en Muſique</item>
+                  <item>
+                     <pb n="29" facs="tcp:42926:17"/>694 La Perpetuite de la Foy de l' Egliſe Catholique ſur l' Euchariſtie contre Monſr. Claud par Monſr Arnaud 3 Vol. 1669</item>
+                  <item>695 Nouvelles de la Republique des Lettres depuis Janujer 1685. Juſque la Fin de Juin.</item>
+                  <item>696 — La meſme depuis la Fin de Juin Juſque la Fin de Decembre 1685</item>
+                  <item>697 La Pratique du Piete traduit de l' Anglois 1676</item>
+                  <item>698 Quatre Dialogues, 1. Sur l' Immortalite de l' Ame, 2de. Sur l' Exiſtence de Dieu, 3me. Sur la Providence, 4me. Sur la Religion a Paris 1684</item>
+                  <item>699 Perroniana &amp; Thuana 1669</item>
+                  <item>700 Hiſtoire de Don Quixote 2 Vol. a Paris 1665</item>
+                  <item>701 — La meſme 4 Vol. la meſme 1681</item>
+                  <item>702 Le Theatre de Mr. Quinault 2 Vol. 1672</item>
+                  <item>703 La Rhetorique Francoiſe par Monſr. Bary 2 Vol. la meſme 1665</item>
+                  <item>704 La Relation du Rome la meſme 1662</item>
+                  <item>705 Reponſe a M. Boſſatran Miniſtere de la R. P. R. ſur la Conference tenue a Niort par Monſr. l' Abbe de Chalucet la meſme 1684</item>
+                  <item>706 Reflexions ſur l'uſage de l' Eloquence de ce temps par Rapin 1679</item>
+                  <item>707 Compariſon de Thucidide &amp; Tite Live par Rapin 1681</item>
+                  <item>708 Reflexions ſur la Philoſophie Ancienne &amp; Moderne par Rapin 1676</item>
+                  <item>709 La Recherche de la Verite 2 Vol. a Paris 1675</item>
+                  <item>710 La Foy des Derniers Siecles par Rapin 1679</item>
+                  <item>711 Quatre Relations Hiſtoriques par Monſr. Charles Patin avec figures 1673</item>
+                  <item>712 Recueil des Remedes Faciles &amp; Domeſtiq. pour toutes ſortes des Maladies Par. 1678</item>
+                  <item>713 Reflexions phyſiques ſur la tranſubſtantiation &amp; ſur ce qui Mr. Rohault en ecrit dans les Entretiens 1675</item>
+                  <item>714 Relation des Moeurs &amp; du Governement des Turcs d' Alger a Paris 1675</item>
+                  <item>715 Remarques ſur l' Eſtat des Provinces Unies des Pais-Bas fait en l'an. 1672. par la Chevalier Temple a la Haye 1674</item>
+                  <item>716 Les Oeuvres de Monſr. Rabelais 2 Vol. 1675</item>
+                  <item>717 — La meſme 2 Vol. 1669</item>
+                  <item>718 Relation de la Guerre de Flandres en l' Annee 1667</item>
+                  <item>719 Reponſe Sommaire au Livre le Renverſement de Morale de Jeſus Chriſt par les Erreurs des Calviniſtes 1673</item>
+                  <item>720 Les Fondemens de la Nouvelle Methode de preſcrire renverſes contre Maimbourg.</item>
+                  <item>721 Reponſe a la Relation du Voyage de Sorbiere en Angleterre 1675</item>
+                  <item>722 Remarques ſur la Livre d'un Proteſtant Intitule Conſiderations ſur les Lettres Cir<g ref="char:EOLhyphen"/>culaires de l' Aſſemblee du Clerge de l' An. 1682</item>
+                  <item>723 Reponſe au Mr. de Condom ſur l'Expoſition la Doctrine de l' Egliſe Catholiq. 1681</item>
+                  <item>724 Relation des Differences arrivez en Eſpagne entre D' Jean d' Auſtrich &amp; le Card. Ni<g ref="char:EOLhyphen"/>tard 2 Vol. 1677</item>
+                  <item>725 — des Troubles en Portugal en l'an. 1667, &amp; 1668. 1674</item>
+                  <item>726 Remarques ſur la Langue Francoiſe par Vaugelas a Amſt. 1665</item>
+                  <item>727 — ſur l' Hiſtoire du Calviniſme de Mr. Maimbourg 1682</item>
+                  <item>728 La Relation des Hollandois a Amſt. 1675</item>
+                  <item>729 Relation de l' Eſtabliſſement de la Compagnie Francoiſe pour la Commerce des Indes Orientales a Amſt. 1666</item>
+                  <item>730 Reflexions ſur les Memoires pour les Ambaſſadeurs &amp; Reponſe au Miniſtre Priſon<g ref="char:EOLhyphen"/>nier 1677</item>
+                  <item>731 Relation des Mouvemens de <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ville de Meſſme a Paris 1676</item>
+                  <item>
+                     <pb n="30" facs="tcp:42926:18"/>732 Recueil Hiſtorique contenant diverſes Pieces Curieuſes de ce temps 1666</item>
+                  <item>733 Remarques pour Servir a Reponſe a deux ecilts contre les Droits de la Reyne ſur la Brabont</item>
+                  <item>734 Recueil de Diverſes Relations remarquables des Principales Cours d' Europe 1681</item>
+                  <item>735 Les Saintes Decades des Quatrains de Piete a Amſt. 1678</item>
+                  <item>736 Relation de trois Ambaſſades de Comte de Carliſle la meſme 1670</item>
+                  <item>737 Hiſtoire de Flandre par Strada 4 Vol. avec figures a Paris 1664</item>
+                  <item>738 Les Oeuvres de Monſr. Scarron 7 Vol.</item>
+                  <item>739 La Religion du Medicin par Dr. Brown 1668</item>
+                  <item>740 Stances Chreſtiennes ſur diver paſſages de l' Ecriture Ste. &amp; des Peres 1677</item>
+                  <item>741 Suite des particularitez Arrives a la Cour d' Eſpagne depuis le 16me de Novem<g ref="char:EOLhyphen"/>bre 1675 a Cologne 1678</item>
+                  <item>742 Le Sainct Jour du Seigneur a Genev. 1680</item>
+                  <item>743 Le Secret des Bains &amp; Faux Minerals de Vichy &amp; Bourbonnoy a Paris 1679</item>
+                  <item>744 La Science du Monde.</item>
+                  <item>745 L' Uſage des Paſſions par Monſr. Senault a Leyde 1658</item>
+                  <item>746 Sentimens de Cleante ſur les Entretiens d' Ariſte &amp; Eugene 2 Vol. a Paris 1671</item>
+                  <item>747 Soliloques Sceptiques la meſme 1670</item>
+                  <item>748 Nouvelles Oeuvres de Monſr. Snafin la meſme 1674</item>
+                  <item>749 Sentences Prieres &amp; Inſtructions Chreſtiennes Tirees de l' Ancien &amp; Nouveau Teſta<g ref="char:EOLhyphen"/>ment par le Sieur de la Val la meſme 1679</item>
+                  <item>750 L' Homme Criminel par Monſr. Senault a Amſt. 1665</item>
+                  <item>751 L' Homme Chreſtienne par Mr. Senault la meſme 1665</item>
+                  <item>752 Hiſtoire de Reunion du Royaume de Portugal 2 Vol. 1680</item>
+                  <item>753 Traite de la Clorture des Religieuſes par Monſr. Thiers a Paris 1681</item>
+                  <item>754 Le Nouveau Teſtament traduit en Francoiſe avec le Vulgate 2 Vol. Lyon 1681</item>
+                  <item>755 Traitte des plus belles Bibliotheques de l' Europe a Paris 1680</item>
+                  <item>756 — du Mouvement des Eaux &amp; des autres corps Fluids par Marriotte Par. 1686</item>
+                  <item>757 Le Teſtament groſſe Lettre a Charenton 1672</item>
+                  <item>758 Le Tableau de la Fortune.</item>
+                  <item>759 Tableaux Genealogiq. de la Maiſon Royale de France par P. Labbe 2 Vol. Par. 1664</item>
+                  <item>760 Le Thebayde ou les Freres Ennemis la meſme 1664</item>
+                  <item>761 Les Oeuvres de Theophile la meſme 1664</item>
+                  <item>762 Le Nouveau Teſtament de Jeſus Chriſt par Amelote la meſme 1668</item>
+                  <item>763 Traitte du Nivellement par M. Picard la meſme 1684</item>
+                  <item>764 — des Inſcriptions en Faux &amp; Ceconnoiſances d' Eſcritures &amp; Signatures par compariſon la meſme 1666</item>
+                  <item>765 — de Morale de la Valeur la meſme 1674</item>
+                  <item>766 Tableau Hiſtorique repreſentant l' Eſtat tant ancien que modern de la France, All<g ref="char:EOLhyphen"/>magne &amp; l' Eſpagne la meſme 1669</item>
+                  <item>767 Le Nouveaux Teſtament des Janſſeniſtes a Mons 1672</item>
+                  <item>768 Traitte de l'Organe de l' Ouire Contenant la Structure les Uſages &amp; les Maladies de toutes les parties de l'Oreille avec figures a Paris 1683</item>
+                  <item>769 Traitte de la Devotion avec deux Sermons de la Perſeverance par Jurieu Rot. 1682</item>
+                  <item>770 Vie Admirable de Glorieuſe Pere St. Francoiſe de Paide a Paris 1638</item>
+                  <item>771 Traite des ancien. Ceremon. ou l'Hiſt. contenant leur Naiſſance &amp; Accroiſſemt. 1673</item>
+                  <item>772 — de la Communion ſous les deux Eſpeces a Paris 1682</item>
+                  <item>773 — de la Jalouſie ou Moyens d'Entretenir la Paix dans la Marriage 1678</item>
+                  <item>
+                     <pb n="31" facs="tcp:42926:18"/>774 Recueil des Traittez du Paix, Treves &amp; Neutralite entre les Couronnes d' Eſpagne &amp; de France a Anvers 1664</item>
+                  <item>775 Traitte du Paix entre la Couronne de France &amp; d' Eſpagne 1659</item>
+                  <item>776 — de la Superſtition compoſe par Plutarque &amp; traduit par la Feure</item>
+                  <item>777 Le Vray Tableau de l' Egliſe de Jeſus Chriſt a Paris 1673</item>
+                  <item>778 La Vie de Marcellus traduit de Plutarque par l' Abbe Tallemont 1662</item>
+                  <item>779 Traitte de la Cour ou Inſtruction des Courtiſans a Amſt. 1656</item>
+                  <item>780 — Politiques concernant Ambaſſadeurs a Col. 1666</item>
+                  <item>781 — des Ceremon. Superſtitieuſes des Juifs tant anciens que modernes.</item>
+                  <item>782 Le Tombeau des Controverſes ou Accord de la Paix avec la Piete 1672</item>
+                  <item>783 Le Secretaire de la Cour par le Sieur de la Serre a Paris 1659</item>
+                  <item>784 La Vie du Sauveur du Monde Jeſus Chriſt par Bernardin la meſme 1639</item>
+                  <item>785 — de la Sr. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ichel de Ruyter Lt. Amiral d' Holland 1678</item>
+                  <item>786 Valere Maxime 2 Vol. a Paris 1665</item>
+                  <item>787 La Vie St. Thomas Archeveſque de Canterbury &amp; Martyr la meſme 1674</item>
+                  <item>788 — de Vicomte de Turenne Mareſchal des Armees du Roy 1685</item>
+                  <item>789 — du Card. Commendon ecrite par Gratian &amp; traduit par L' Abbe Flecher a Paris 1680</item>
+                  <item>790 — de Ceſar Borgia Duc de Valentinois 1671</item>
+                  <item>791 — de St. Tereſe</item>
+                  <item>792 L' Art de bien Employer la temps en toutes ſortes des Conditions 1679</item>
+                  <item>793 Sermons de la Perſeverance contre Pere Coſta 1667</item>
+                  <item>794 Traitte des Droits la Reyne tres Chreſtienne ſur divers Eſtats d' Eſpagne 1676</item>
+                  <item>795 Journal d'un Voyage fait en Egypt par Vanſleb 1672, &amp; 1673.</item>
+                  <item>796 — d'un Voyage fait aux Iudes Orientales a Paris 1677</item>
+                  <item>797 Voyages de l' Empereur de la Chine dans la Tartarie la meſme 1685</item>
+                  <item>798 Cinquante deux Conſolations propoſee entre l' Affligee &amp; Conſolateur.</item>
+                  <item>799 Le Nouveau Monde ou l'Hiſtoire des Miſſions &amp; des autres Affairs de l' Europe de l' Aſie &amp; de l' Afrique 2 Vol. a Paris 1659</item>
+                  <item>800 L' Eſprit de l' Ecriture Ste. avec les Reflexions la meſme 1686</item>
+                  <item>801 Abrege de la Morale de l' Evangile ou Penſees Chreſtiennes ſur les Texts de Quatre Evangiles la meſme 1685</item>
+                  <item>802 Hiſtoires des troubles de Hongrie &amp; l' Eſtat preſent du Royaume de la Hongrie avec figures 3 Vol. la meſme 1686</item>
+                  <item>803 Traitte de l' Egliſe contre les Heretiques principalement contre les Calviniſtes 1686</item>
+                  <item>804 Hiſt. de Conſtantinop. depuis la Regne de l'ancien Juſtin Juſqu. a la fin de l' Empire traduit par Monſr. Couſin 8 Vol. 1685</item>
+                  <item>805 Hiſt. de l' Egliſe par Euſebe, &amp;c. traduit par Mr. Couſin 4 Vol. 1686</item>
+                  <item>806 — de Francoiſe Premier par Monſr. Varillas 2 Vol. 1686</item>
+                  <item>807 — de la Ville &amp; de l' Eſtat de Geneve depuis la premier Siecles Juſque a preſent avec figures par Monſr. Spon 1685</item>
+                  <item>808 Bibliotheque Univerſelle &amp; Hiſtorique de l'Annee 1686</item>
+                  <item>809 Diſſertation ſur les Oracles des Sibylles a Paris 1684</item>
+                  <item>810 Memoires Hiſtoriques &amp; Geographiques de Moree, Negropont &amp; les places Mari<g ref="char:EOLhyphen"/>times Juſque Theſſalonique par Coronelli avec figures 1686</item>
+                  <item>811 Dialoghi Politici o Ouero la Politica i Principi Republiche Italienne 2 Vol. Rom. 1686</item>
+                  <item>812 La Campagna del Re Chriſtianiſſimo nell' anno 1677.</item>
+                  <item>813 Conclavi de Pontifici Romani 1668</item>
+                  <item>
+                     <pb n="32" facs="tcp:42926:19"/>814 Stratonica del Signr. Luca Aſſarino 1647</item>
+                  <item>815 Opere Poetiche di Ceſare Caperali in Venetia 1608</item>
+                  <item>816 Relazione della Corte Romana in Leyda 1663</item>
+                  <item>817 Opere de Padre Paolo 5 Vol. in Venetia 1677</item>
+                  <item>818 Hiſtorici de gli Uſcochi di P. Paolo</item>
+                  <item>819 Epiſtole Amoroſe di Ceſare Orſino Ibid. 1633</item>
+                  <item>820 Vita del Padre Paolo Ibid. 1677</item>
+                  <item>821 Il Vaticano Languente 3 Vol. 1677</item>
+                  <item>822 Difeſa del Savio in Corte Antonio Cardinal Barbenni</item>
+                  <item>823 Arcadia Proſas, y verſas de Lope de la Vega en Madrid</item>
+                  <item>824 Opere del Cavalier Biondi in Venetia 1653</item>
+                  <item>825 El Heroe de Lorenzo Gratian Amſterdam 1659</item>
+                  <item>826 Il Forma oeuero della Nobilta Dialogo del S. Torquato Taſſo 1683</item>
+                  <item>827 L' Italia Regnante Nova Deſcrittione di tutti Principati d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Italia 1675</item>
+                  <item>828 Le Politiche della Republica di Genoua 1675</item>
+                  <item>829 Il Cardinaliſmo di Sta. Chieſa 3 Vol.</item>
+                  <item>830 Il Diverzio Celeſte 3 Vol. 1679</item>
+                  <item>831 Il Decameron di Meſſer Boccacci 1679</item>
+                  <item>832 L' Adone del Cavali r Marino 2 Vol. 1679</item>
+                  <item>833 Vita di S. Giovanni de Loredano Venetia 1655</item>
+                  <item>834 Le Opere di Nicolo Machiavelli 4 vol. 1679</item>
+                  <item>835 Flerida Geloſa di Battiſta Manzin Ibid. 1639</item>
+                  <item>836 La Pratique de l' Education des Princes par Monſr. Varillas 1684</item>
+                  <item>837 Le Decameron de Jeane Bocace a Amſterdam 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7</item>
+                  <item>838 Itinerario della Corte di Roma Hiſtorico, Chronologico, &amp;c. 3 Vol. 1678</item>
+                  <item>839 La Diana de George Montemayor en Madrid 1595</item>
+                  <item>840 Relationes d' Antonio de Peres Secretario d' Eſtado en Paris 1598</item>
+                  <item>841 Cartas di Antonio Perez Secretario d'Eſtado del Phelippo 2do.</item>
+                  <item>842 Hiſtoria Univerſale del Conte Galeazzo Gualdo Priorato 2 vol. 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2</item>
+                  <item>843 Los Amores de Juan Boſcan 1658</item>
+                  <item>844 Arcadia di Gia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omo Sannazaro in Venetia 1619</item>
+                  <item>845 Hiſtoria overo Giornale dell' Ultime Rivoluzioni di Napoli da Agoſtino Nicolai.</item>
+                  <item>846 Hiſtoria delle Guerre de la Germania Inferiore di Coneſtagio 1634</item>
+                  <item>847 Abrege de l' Hiſtoire de Siecle de Fer par de Panual a Leyde 1653</item>
+                  <item>848 Furori della Gieventa di Battiſta Manzini in Bologna 1636</item>
+                  <item>849 Il Conqueſta di Granata del Sigr. Gratiani 1654</item>
+                  <item>850 Il Livelle Politico o ſia la giuſta Bilancia 4 vol. 16<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8</item>
+                  <item>851 De Raggu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gli di Parnaſſo del Boccalini 2 vol. Amſterdam 166<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>852 Hiſtoire des plus Illuſtres &amp; Scavans Hommes de leurs Siecles 8 vol. avec figures par Monſr. Thevet a Paris 1671</item>
+                  <item>853 Les Commentaires de Ceſar traduit par Ablancourt a Amſt. 1678</item>
+                  <item>854 Vita di Siſto 5to. Scritta da Gregorio Leti. Amſt. 1686</item>
+                  <item>855 Traitte Hiſtoriq. de l' Eſtabliſſement &amp; des Prerogatives de l' Egliſe de Rome p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Maimbourg 1685</item>
+                  <item>856 Nouvelles Lettres ſur la Critique de Calviniſme 4 vol. 1685</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:42926:19"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
